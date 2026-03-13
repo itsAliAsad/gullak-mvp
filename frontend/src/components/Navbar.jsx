@@ -1,4 +1,5 @@
 import { GullakLogo } from '@/components/GullakLogo'
+import { ExternalLink } from 'lucide-react'
 
 const LINKS = [
   { id: 'home',  desktop: 'Experience Gullak', mobile: 'Chat'   },
@@ -20,6 +21,10 @@ export function Navbar({ currentPage, onNavigate }) {
 
       {/* Links */}
       <div className="flex items-center gap-0.5">
+        <div className="hidden md:flex items-center mr-4 text-xs font-medium text-muted/80 bg-sand/20 px-2.5 py-1 rounded-full border border-sand/40">
+          Built with <span className="ml-1 font-bold tracking-wide" style={{ color: '#B080FF' }}>Kiro</span>
+        </div>
+        
         {LINKS.map(link => {
           const active = currentPage === link.id
           return (
@@ -37,6 +42,16 @@ export function Navbar({ currentPage, onNavigate }) {
             </button>
           )
         })}
+        {/* GitHub Link */}
+        <a
+          href="https://github.com/itsAliAsad/gullak-mvp"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="ml-2 px-3 py-1.5 rounded-lg text-sm font-medium text-muted hover:text-brown hover:bg-sand/30 transition-colors flex items-center gap-2"
+        >
+          <span className="hidden sm:inline">GitHub</span>
+          <ExternalLink size={16} />
+        </a>
       </div>
     </nav>
   )

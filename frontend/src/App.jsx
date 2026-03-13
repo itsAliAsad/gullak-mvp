@@ -5,11 +5,12 @@ import { Home } from '@/screens/Home'
 import { About } from '@/screens/About'
 import { Team } from '@/screens/Team'
 import { Dashboard } from '@/screens/Dashboard'
+import { Landing } from '@/screens/Landing'
 import { getAnalysisProgress, subscribeToAnalysisProgress } from '@/lib/api'
 import { Toaster } from '@/components/ui/sonner'
 
 export default function App() {
-  const [page, setPage]                   = useState('home')
+  const [page, setPage]                   = useState('landing')
   const [screen, setScreen]               = useState('chat')   // 'chat' | 'analyzing' | 'dashboard'
   const [sessionId, setSessionId]         = useState(null)
   const [dashboardData, setDashboardData] = useState(null)
@@ -113,6 +114,7 @@ export default function App() {
   const sidebarScreen = page === 'home' ? screen : 'chat'
 
   const renderContent = () => {
+    if (page === 'landing') return <Landing onStart={() => setPage('home')} />
     if (page === 'about') return <About onTryGullak={() => setPage('home')} />
     if (page === 'team')  return <Team />
 
@@ -147,9 +149,9 @@ export default function App() {
   return (
     <div className="flex flex-col h-dvh">
       <Toaster />
-      <Navbar currentPage={page} onNavigate={handleNavigate} />
+      {page !== 'landing' && <Navbar currentPage={page} onNavigate={handleNavigate} />}
       <div className="flex flex-1 min-h-0 overflow-hidden">
-        <Sidebar screen={sidebarScreen} />
+        {page !== 'landing' && <Sidebar screen={sidebarScreen} />}
         <div className="flex-1 min-h-0 min-w-0 overflow-hidden">
           {renderContent()}
         </div>
