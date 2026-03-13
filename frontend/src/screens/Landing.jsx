@@ -2,7 +2,7 @@ import { GullakLogo } from '@/components/GullakLogo'
 
 export function Landing({ onStart }) {
   return (
-    <div className="min-h-dvh bg-cream flex flex-col items-center justify-center p-6 relative overflow-hidden">
+    <div className="h-screen bg-cream flex flex-col items-center justify-center p-6 relative overflow-hidden">
       {/* Decorative gradient orbs */}
       <div className="absolute top-[10%] left-[15%] w-[500px] h-[500px] bg-sand/50 rounded-full blur-[100px] animate-pulse-slow pointer-events-none mix-blend-multiply" />
       <div className="absolute bottom-[10%] right-[15%] w-[400px] h-[400px] bg-terracotta-light/70 rounded-full blur-[100px] animate-pulse-slow pointer-events-none mix-blend-multiply" style={{ animationDelay: '2s' }} />
