@@ -1,0 +1,2 @@
+pydantic-ai-slim[bedrock]
+amazon-transcribe

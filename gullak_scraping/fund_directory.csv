@@ -1,0 +1,523 @@
+fund_name,fund_id,amc_name,category,fund_type,risk_profile,nav,offer_price,shariah_flag
+ABL Cash Fund,12768,ABL Asset Management Company Limited,Money Market,Open-End Funds,Low,10.97,11.07,false
+ABL Financial Planning Fund (Conservative Plan),12775,ABL Asset Management Company Limited,Fund of Funds,Open-End Funds,Medium,119.15,121.92,false
+ABL Financial Planning Fund (Strategic Allocation Plan),12783,ABL Asset Management Company Limited,Fund of Funds,Open-End Funds,High,93.61,0.00,false
+ABL Financial Sector Fund Plan I,14347,ABL Asset Management Company Limited,Income,Open-End Funds,Medium,10.73,10.98,false
+ABL Fixed Rate Plan XIX,14874,ABL Asset Management Company Limited,Fixed Rate / Return,Open-End Funds,Moderate,10.74,0.00,false
+ABL Fixed Rate Plan XXII,14982,ABL Asset Management Company Limited,Fixed Rate / Return,Open-End Funds,Low,10.30,0.00,false
+ABL Fixed Rate Plan XXIII,14994,ABL Asset Management Company Limited,Fixed Rate / Return,Open-End Funds,Very Low,10.28,0.00,false
+ABL Fixed Rate Plan XXIV,15051,ABL Asset Management Company Limited,Fixed Rate / Return,Open-End Funds,Low,10.08,0.00,false
+ABL GOKP Islamic Pension Fund,14657,ABL Asset Management Company Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,121.02,0.00,true
+ABL GOKP Pension Fund,14668,ABL Asset Management Company Limited,VPS-Money Market,Employer Pension Funds,NA,128.07,0.00,false
+ABL GOPB Islamic Pension Fund,14975,ABL Asset Management Company Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,101.72,0.00,true
+ABL GOPB Pension Fund,14974,ABL Asset Management Company Limited,VPS-Money Market,Employer Pension Funds,Low to High,102.73,0.00,false
+ABL Government Securities Fund,12767,ABL Asset Management Company Limited,Income,Open-End Funds,Medium,10.86,11.05,false
+ABL Income Fund,12765,ABL Asset Management Company Limited,Income,Open-End Funds,Medium,10.90,11.09,false
+ABL Islamic Asset Allocation Fund,12786,ABL Asset Management Company Limited,Shariah Compliant Asset Allocation,Open-End Funds,Medium,10.16,10.52,true
+ABL Islamic Cash Fund,12793,ABL Asset Management Company Limited,Shariah Compliant Money Market,Open-End Funds,Low,10.03,10.15,true
+ABL Islamic Dedicated Stock Fund,12804,ABL Asset Management Company Limited,Shariah Compliant Dedicated Equity,Dedicated Equity Funds,High,16.48,16.48,true
+ABL Islamic Financial Planning Fund (Active Allocation Plan),12780,ABL Asset Management Company Limited,Shariah Compliant Fund of Funds,Open-End Funds,High,95.30,97.52,true
+ABL Islamic Financial Planning Fund (Capital Preservation Plan I),12788,ABL Asset Management Company Limited,Shariah Compliant Fund of Funds - CPPI,Open-End Funds,Medium,110.06,0.00,true
+ABL Islamic Financial Planning Fund (Conservative Allocation Plan),12776,ABL Asset Management Company Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,123.30,126.17,true
+ABL Islamic Fixed Term Plan V,15061,ABL Asset Management Company Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Low,10.04,0.00,true
+ABL Islamic Income Fund,12769,ABL Asset Management Company Limited,Shariah Compliant Income,Open-End Funds,Medium,10.93,11.12,true
+ABL Islamic Money Market Plan I,14623,ABL Asset Management Company Limited,Shariah Compliant Money Market,Open-End Funds,Low,10.72,10.97,true
+ABL Islamic Pension Fund,12802,ABL Asset Management Company Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,544.37,563.32,true
+ABL Islamic Pension Fund,12803,ABL Asset Management Company Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,227.57,235.49,true
+ABL Islamic Pension Fund,12801,ABL Asset Management Company Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,224.55,232.37,true
+ABL Islamic Sovereign Plan I,14692,ABL Asset Management Company Limited,Shariah Compliant Income,Open-End Funds,Medium,10.67,11.04,true
+ABL Islamic Stock Fund,12772,ABL Asset Management Company Limited,Shariah Compliant Equity,Open-End Funds,High,30.13,30.83,true
+ABL Money Market Plan I,14613,ABL Asset Management Company Limited,Money Market,Open-End Funds,Low,10.69,10.93,false
+ABL Optimal Asset Allocation Fund,14913,ABL Asset Management Company Limited,Asset Allocation,Open-End Funds,High,10.05,10.40,false
+ABL Pension Fund,12798,ABL Asset Management Company Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,366.33,379.08,false
+ABL Pension Fund,12799,ABL Asset Management Company Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,585.35,605.72,false
+ABL Pension Fund,12800,ABL Asset Management Company Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,279.34,289.06,false
+ABL Special Saving Fund (ABL Special Saving Plan I),12789,ABL Asset Management Company Limited,Capital Protected,Open-End Funds,Low,10.83,10.95,false
+ABL Special Saving Fund (ABL Special Saving Plan II),12790,ABL Asset Management Company Limited,Capital Protected,Open-End Funds,Low,11.30,11.57,false
+ABL Special Saving Fund (ABL Special Saving Plan III),12791,ABL Asset Management Company Limited,Capital Protected,Open-End Funds,Low,10.90,11.15,false
+ABL Special Saving Fund (ABL Special Saving Plan IV),12792,ABL Asset Management Company Limited,Capital Protected,Open-End Funds,Low,10.17,10.29,false
+ABL Special Saving Fund (ABL Special Saving Plan V),12794,ABL Asset Management Company Limited,Capital Protected,Open-End Funds,Low,10.81,10.93,false
+ABL Special Saving Fund (ABL Special Saving Plan VI),12796,ABL Asset Management Company Limited,Capital Protected,Open-End Funds,Low,10.78,10.90,false
+ABL Stock Fund,12766,ABL Asset Management Company Limited,Equity,Open-End Funds,High,34.38,35.18,false
+AKD Aggressive Income Fund,12805,AKD Investment Management Limited,Aggressive Fixed Income,Open-End Funds,Medium,60.04,60.73,false
+AKD Cash Fund,12809,AKD Investment Management Limited,Money Market,Open-End Funds,Low,55.64,55.64,false
+AKD Index Tracker Fund,12807,AKD Investment Management Limited,Index Tracker,Open-End Funds,High,37.59,38.02,false
+AKD Islamic Cash Fund,12813,AKD Investment Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,52.62,52.62,true
+AKD Islamic Income Fund,12810,AKD Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,55.06,55.69,true
+AKD Islamic Stock Fund,12811,AKD Investment Management Limited,Shariah Compliant Equity,Open-End Funds,High,95.25,98.54,true
+AKD Opportunity Fund,12806,AKD Investment Management Limited,Equity,Open-End Funds,High,189.08,195.61,false
+Al Ameen Islamic Aggressive Income Fund,13137,UBL Fund Managers Limited,Shariah Compliant Aggressive Fixed Income,Open-End Funds,Medium,107.92,109.16,true
+Al Ameen Islamic Aggressive Income Plan I,13189,UBL Fund Managers Limited,Shariah Compliant Aggressive Fixed Income,Open-End Funds,Medium,119.13,119.46,true
+Al Ameen Islamic Asset Allocation Fund,13152,UBL Fund Managers Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,215.03,222.45,true
+Al Ameen Islamic Cash Fund,13146,UBL Fund Managers Limited,Shariah Compliant Money Market,Open-End Funds,Low,108.18,108.18,true
+Al Ameen Islamic Cash Plan I,13190,UBL Fund Managers Limited,Shariah Compliant Money Market,Open-End Funds,Low,107.62,107.62,true
+Al Ameen Islamic Energy Fund,13186,UBL Fund Managers Limited,Shariah Compliant Equity,Open-End Funds,High,323.32,334.47,true
+Al Ameen Islamic Income Fund,14381,UBL Fund Managers Limited,Shariah Compliant Income,Open-End Funds,Medium,106.12,107.95,true
+Al Ameen Islamic Punjab Pension Fund,15026,UBL Fund Managers Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low,101.20,101.20,true
+Al Ameen Islamic Retirement Savings Fund,13200,UBL Fund Managers Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,369.03,369.03,true
+Al Ameen Islamic Retirement Savings Fund,13201,UBL Fund Managers Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,2626.25,2626.25,true
+Al Ameen Islamic Retirement Savings Fund,13202,UBL Fund Managers Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,357.03,357.03,true
+Al Ameen Islamic Sovereign Fund,13143,UBL Fund Managers Limited,Shariah Compliant Income,Open-End Funds,Medium,108.59,109.84,true
+Al Ameen Shariah Stock Fund,13136,UBL Fund Managers Limited,Shariah Compliant Equity,Open-End Funds,High,458.71,471.90,true
+Al Ameen Voluntary Pension Fund KPK,14579,UBL Fund Managers Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,130.81,130.81,true
+AL Habib Asset Allocation Fund,12710,AL Habib Asset Management Limited,Asset Allocation,Open-End Funds,High,117.92,120.28,false
+AL Habib Cash Fund,12707,AL Habib Asset Management Limited,Money Market,Open-End Funds,Low,108.81,112.08,false
+AL Habib Fixed Return Fund Plan 19,14811,AL Habib Asset Management Limited,Fixed Rate / Return,Open-End Funds,Very Low,107.53,107.53,false
+AL Habib Fixed Return Fund Plan 22,14861,AL Habib Asset Management Limited,Fixed Rate / Return,Open-End Funds,Very Low,107.37,107.37,false
+AL Habib Fixed Return Fund Plan 23,14904,AL Habib Asset Management Limited,Fixed Rate / Return,Open-End Funds,Low,105.73,105.73,false
+AL Habib Fixed Return Fund Plan 24,14905,AL Habib Asset Management Limited,Fixed Rate / Return,Open-End Funds,Low,105.82,105.82,false
+AL Habib Fixed Return Fund Plan 28,15067,AL Habib Asset Management Limited,Fixed Rate / Return,Open-End Funds,Low,100.13,100.13,false
+AL Habib Fixed Return Fund Plan 29,15059,AL Habib Asset Management Limited,Fixed Rate / Return,Open-End Funds,Low,100.34,100.34,false
+AL Habib GOKP Islamic Pension Fund,14561,AL Habib Asset Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,132.26,132.26,true
+AL Habib GOKP Pension Fund,14618,AL Habib Asset Management Limited,VPS-Money Market,Employer Pension Funds,NA,135.81,135.81,false
+AL Habib Government Securities Fund,14335,AL Habib Asset Management Limited,Income,Open-End Funds,Medium,107.51,110.73,false
+AL Habib Income Fund,12706,AL Habib Asset Management Limited,Income,Open-End Funds,Medium,109.42,112.70,false
+AL Habib Islamic Cash Fund,12712,AL Habib Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,107.17,110.39,true
+AL Habib Islamic Income Fund,12709,AL Habib Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,108.69,111.96,true
+AL Habib Islamic Money Market Fund,15068,AL Habib Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Very Low,100.27,100.27,true
+AL Habib Islamic Pension Fund,12717,AL Habib Asset Management Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,422.37,435.04,true
+AL Habib Islamic Pension Fund,12719,AL Habib Asset Management Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,163.94,168.85,true
+AL Habib Islamic Pension Fund,12718,AL Habib Asset Management Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,166.82,171.83,true
+AL Habib Islamic Savings Fund,12713,AL Habib Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,107.21,110.43,true
+AL Habib Islamic Stock Fund,12708,AL Habib Asset Management Limited,Shariah Compliant Equity,Open-End Funds,High,164.51,167.80,true
+AL Habib Money Market Fund,12711,AL Habib Asset Management Limited,Money Market,Open-End Funds,Low,107.57,110.80,false
+AL Habib Pension Fund,12714,AL Habib Asset Management Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,480.60,495.01,false
+AL Habib Pension Fund,12715,AL Habib Asset Management Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,181.59,187.04,false
+AL Habib Pension Fund,12716,AL Habib Asset Management Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,177.11,182.43,false
+AL Habib Sovereign Income Fund Plan 1,14866,AL Habib Asset Management Limited,Income,Open-End Funds,Medium,107.49,107.49,false
+AL Habib Sovereign Income Fund Plan 2,14872,AL Habib Asset Management Limited,Income,Open-End Funds,Medium,107.50,107.50,false
+AL Habib Sovereign Income Fund Plan 3,14873,AL Habib Asset Management Limited,Income,Open-End Funds,Medium,107.53,107.53,false
+AL Habib Stock Fund,12705,AL Habib Asset Management Limited,Equity,Open-End Funds,High,162.23,165.48,false
+Al Meezan Mutual Fund,12821,Al Meezan Investment Management Limited,Shariah Compliant Equity,Open-End Funds,High,44.10,45.12,true
+Alfalah Asset Allocation Fund,12882,Alfalah Asset Management Limited,Asset Allocation,Open-End Funds,High,72.68,75.19,false
+Alfalah Cash Fund - II,12900,Alfalah Asset Management Limited,Money Market,Open-End Funds,Low,109.66,112.18,false
+Alfalah Consumer Index Exchange Traded Fund,12680,Alfalah Asset Management Limited,Exchange Traded Fund,Exchange Traded Fund (ETF),Medium,15.28,15.28,false
+Alfalah Financial Sector Income Fund,14338,Alfalah Asset Management Limited,Income,Open-End Funds,Medium,107.54,110.02,false
+Alfalah Financial Sector Opportunity Fund,12885,Alfalah Asset Management Limited,Income,Open-End Funds,Medium,125.08,127.95,false
+Alfalah Financial Value Fund (Alfalah Financial Value Plan I),14645,Alfalah Asset Management Limited,Asset Allocation,Open-End Funds,NA,148.05,153.16,false
+Alfalah Financial Value Fund - II,14855,Alfalah Asset Management Limited,Asset Allocation,Open-End Funds,High,100.80,104.28,false
+Alfalah GHP Alpha Fund,12643,Alfalah Asset Management Limited,Equity,Open-End Funds,High,104.49,108.09,false
+Alfalah GHP Cash Fund,12653,Alfalah Asset Management Limited,Money Market,Open-End Funds,Low,537.66,550.03,false
+Alfalah GHP Dedicated Equity Fund,12679,Alfalah Asset Management Limited,Dedicated Equity,Dedicated Equity Funds,High,188.57,192.91,false
+Alfalah GHP Income Fund,12649,Alfalah Asset Management Limited,Income,Open-End Funds,Medium,122.32,125.13,false
+Alfalah GHP Income Multiplier Fund,12646,Alfalah Asset Management Limited,Aggressive Fixed Income,Open-End Funds,Medium,62.13,64.27,false
+Alfalah GHP Islamic Dedicated Equity Fund,12678,Alfalah Asset Management Limited,Shariah Compliant Dedicated Equity,Dedicated Equity Funds,High,105.75,107.58,true
+Alfalah GHP Islamic Income Fund,12652,Alfalah Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,109.94,112.47,true
+Alfalah GHP Islamic Pension Fund,12675,Alfalah Asset Management Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,211.61,218.91,true
+Alfalah GHP Islamic Pension Fund,12677,Alfalah Asset Management Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,218.20,225.73,true
+Alfalah GHP Islamic Pension Fund,12676,Alfalah Asset Management Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,290.93,300.97,true
+Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II),12657,Alfalah Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,92.95,95.63,true
+Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan),12662,Alfalah Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,108.47,110.03,true
+Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan),12661,Alfalah Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,115.12,0.00,true
+Alfalah GHP Islamic Stock Fund,12645,Alfalah Asset Management Limited,Shariah Compliant Equity,Open-End Funds,High,64.52,66.74,true
+Alfalah GHP Islamic Value Fund,12664,Alfalah Asset Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,137.94,141.11,true
+Alfalah GHP Money Market Fund,12654,Alfalah Asset Management Limited,Money Market,Open-End Funds,Low,105.91,108.34,false
+Alfalah GHP Pension Fund,12673,Alfalah Asset Management Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,249.13,257.72,false
+Alfalah GHP Pension Fund,12672,Alfalah Asset Management Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,305.66,316.21,false
+Alfalah GHP Pension Fund,12674,Alfalah Asset Management Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,245.03,253.48,false
+Alfalah GHP Prosperity Planning Fund (Alfalah GHP Active Allocation Plan),12660,Alfalah Asset Management Limited,Fund of Funds,Open-End Funds,Medium,113.17,115.77,false
+Alfalah GHP Prosperity Planning Fund (Alfalah GHP Conservative Allocation Plan),12658,Alfalah Asset Management Limited,Fund of Funds,Open-End Funds,Medium,120.01,121.39,false
+Alfalah GHP Prosperity Planning Fund (Alfalah GHP Moderate Allocation Plan),12659,Alfalah Asset Management Limited,Fund of Funds,Open-End Funds,Medium,114.08,116.05,false
+Alfalah GHP Prosperity Planning Fund (Capital Preservation Plan IV),14667,Alfalah Asset Management Limited,Fund of Funds,Open-End Funds,NA,112.35,0.00,false
+Alfalah GHP Sovereign Fund,12655,Alfalah Asset Management Limited,Income,Open-End Funds,Medium,114.29,116.92,false
+Alfalah GHP Stock Fund,12650,Alfalah Asset Management Limited,Equity,Open-End Funds,High,179.24,184.39,false
+Alfalah GHP Value Fund,12647,Alfalah Asset Management Limited,Asset Allocation,Open-End Funds,High,83.48,86.35,false
+Alfalah GOPB Islamic Pension Fund,15075,Alfalah Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,100.00,0.00,true
+Alfalah GOPB Pension Fund,15074,Alfalah Asset Management Limited,VPS-Money Market,Employer Pension Funds,Medium,100.00,0.00,false
+Alfalah Government Securities Fund - II,12894,Alfalah Asset Management Limited,Income,Open-End Funds,Medium,133.95,137.03,false
+Alfalah Government Securities Fund Plan I,14718,Alfalah Asset Management Limited,Income,Open-End Funds,Medium,106.21,109.87,false
+Alfalah Government Securities Fund Plan II,14751,Alfalah Asset Management Limited,Income,Open-End Funds,Medium,105.77,109.42,false
+Alfalah Income & Growth Fund,12880,Alfalah Asset Management Limited,Aggressive Fixed Income,Open-End Funds,Medium,124.60,127.47,false
+Alfalah Islamic KPK Employee Pension Fund,14632,Alfalah Asset Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,130.47,130.47,true
+Alfalah Islamic Money Market Fund,14339,Alfalah Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,107.30,109.77,true
+Alfalah Islamic Rozana Amdani Fund,12668,Alfalah Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,100.69,103.01,true
+Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan I),14340,Alfalah Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,97.43,100.80,true
+Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan II),14566,Alfalah Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,116.53,120.55,true
+Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan III),14708,Alfalah Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,106.62,110.30,true
+Alfalah Islamic Stable Return Fund Plan X,15011,Alfalah Asset Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Medium,102.61,102.61,true
+Alfalah Islamic Stable Return Fund Plan XII,15044,Alfalah Asset Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Medium,100.79,100.79,true
+Alfalah Islamic Stable Return Fund Plan XIII,15054,Alfalah Asset Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Medium,100.41,100.41,true
+Alfalah KPK Employee Pension Fund,14544,Alfalah Asset Management Limited,VPS-Money Market,Employer Pension Funds,NA,135.37,135.37,false
+Alfalah KTrade Islamic Plan VII,14342,Alfalah Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,130.89,135.41,true
+Alfalah Money Market Fund - II,12884,Alfalah Asset Management Limited,Money Market,Open-End Funds,Low,110.67,113.22,false
+Alfalah MTS Fund,12887,Alfalah Asset Management Limited,Income,Open-End Funds,Medium,111.83,114.40,false
+Alfalah Pension Fund - II,12913,Alfalah Asset Management Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,113.84,117.77,false
+Alfalah Pension Fund - II,12915,Alfalah Asset Management Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,184.18,190.54,false
+Alfalah Pension Fund - II,12914,Alfalah Asset Management Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,0.00,0.00,false
+Alfalah Savings Growth Fund,12881,Alfalah Asset Management Limited,Income,Open-End Funds,Medium,111.72,114.29,false
+Alfalah Special Savings Fund - I,12903,Alfalah Asset Management Limited,Capital Protected,Open-End Funds,Low,143.26,146.55,false
+Alfalah Special Savings Fund - II,12907,Alfalah Asset Management Limited,Capital Protected,Open-End Funds,Low,114.17,116.79,false
+Alfalah Stable Return Fund Plan XX,14858,Alfalah Asset Management Limited,Fixed Rate / Return,Open-End Funds,Very Low,105.21,105.21,false
+Alfalah Stable Return Fund Plan XXI,14875,Alfalah Asset Management Limited,Fixed Rate / Return,Open-End Funds,Medium,107.21,107.21,false
+Alfalah Stable Return Fund Plan XXII,14916,Alfalah Asset Management Limited,Fixed Rate / Return,Open-End Funds,Medium,105.10,105.10,false
+Alfalah Stable Return Fund Plan XXIII,14936,Alfalah Asset Management Limited,Fixed Rate / Return,Open-End Funds,Medium,104.19,104.19,false
+Alfalah Stable Return Fund Plan XXIV,14942,Alfalah Asset Management Limited,Fixed Rate / Return,Open-End Funds,Medium,104.04,104.04,false
+Alfalah Stable Return Fund Plan XXVI,14976,Alfalah Asset Management Limited,Fixed Rate / Return,Open-End Funds,Medium,103.45,103.45,false
+Alfalah Stable Return Fund Plan XXVII,15071,Alfalah Asset Management Limited,Fixed Rate / Return,Open-End Funds,Medium,100.00,0.00,false
+Alfalah Stock Fund - II,12879,Alfalah Asset Management Limited,Equity,Open-End Funds,High,71.68,74.15,false
+Alfalah Strategic Allocation Fund Plan - I,14763,Alfalah Asset Management Limited,Fund of Funds,Open-End Funds,NA,122.01,126.22,false
+Alhamra Cash Management Optimizer,14349,MCB Investment Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,107.40,108.63,true
+Alhamra Daily Dividend Fund,12743,MCB Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,100.00,101.15,true
+Alhamra Government Securities Plan I,14683,MCB Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,106.24,108.69,true
+Alhamra Islamic Asset Allocation Fund,12725,MCB Investment Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,197.08,203.88,true
+Alhamra Islamic Income Fund,12737,MCB Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,110.92,112.84,true
+Alhamra Islamic Money Market Fund,12744,MCB Investment Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,99.51,100.65,true
+Alhamra Islamic Pension Fund,12761,MCB Investment Management Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,1915.22,1915.22,true
+Alhamra Islamic Pension Fund,12762,MCB Investment Management Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,459.35,459.35,true
+Alhamra Islamic Pension Fund,12763,MCB Investment Management Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,419.20,419.20,true
+Alhamra Islamic Punjab Pension Fund,15036,MCB Investment Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low,101.48,101.48,true
+Alhamra Islamic Stock Fund,12733,MCB Investment Management Limited,Shariah Compliant Equity,Open-End Funds,High,27.37,28.31,true
+Alhamra Opportunity Fund (Dividend Strategy Plan),14576,MCB Investment Management Limited,Shariah Compliant Equity,Open-End Funds,High,199.24,206.12,true
+Alhamra Smart Portfolio,12745,MCB Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,165.74,171.46,true
+Alhamra Wada Fund (Alhamra Wada Plan XVI),15042,MCB Investment Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Moderate,101.16,101.16,true
+Allied Finergy Fund,12787,ABL Asset Management Company Limited,Asset Allocation,Open-End Funds,High,15.71,16.25,false
+Askari Cash Fund,13109,Pak Oman Asset Management Company Limited,Money Market,Open-End Funds,Low,110.26,110.26,false
+Askari High Yield Scheme,13107,Pak Oman Asset Management Company Limited,Aggressive Fixed Income,Open-End Funds,Medium,109.17,111.64,false
+Askari Sovereign Yield Enhancer,13118,Pak Oman Asset Management Company Limited,Income,Open-End Funds,Medium,110.96,112.53,false
+Atlas Dividend Yield Fund,15047,Atlas Asset Management Limited,Equity,Open-End Funds,High,87.87,87.87,false
+Atlas Financial Sector Fund,15049,Atlas Asset Management Limited,Equity,Open-End Funds,High,86.76,86.76,false
+Atlas Income Fund,12684,Atlas Asset Management Limited,Income,Open-End Funds,Medium,566.23,566.23,false
+Atlas Islamic Cash Fund,14685,Atlas Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,536.23,536.23,true
+Atlas Islamic Dedicated Stock Fund,12704,Atlas Asset Management Limited,Shariah Compliant Dedicated Equity,Dedicated Equity Funds,High,1472.17,1472.17,true
+Atlas Islamic Fund of Funds (Atlas Aggressive Allocation Islamic Plan),12688,Atlas Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,1334.55,1334.55,true
+Atlas Islamic Fund of Funds (Atlas Conservative Allocation Islamic Plan),12690,Atlas Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,901.56,901.56,true
+Atlas Islamic Fund of Funds (Atlas Moderate Allocation Islamic Plan),12689,Atlas Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,1151.55,1151.55,true
+Atlas Islamic Income Fund,12683,Atlas Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,549.44,549.44,true
+Atlas Islamic Money Market Fund,12693,Atlas Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,541.54,541.54,true
+Atlas Islamic Stock Fund,12681,Atlas Asset Management Limited,Shariah Compliant Equity,Open-End Funds,High,1435.17,1435.17,true
+Atlas KPK Islamic Pension Fund,14574,Atlas Asset Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,135.78,135.78,true
+Atlas Liquid Fund,12695,Atlas Asset Management Limited,Money Market,Open-End Funds,Low,537.72,537.72,false
+Atlas Money Market Fund,12685,Atlas Asset Management Limited,Money Market,Open-End Funds,Low,549.90,549.90,false
+Atlas Pension Fund,12700,Atlas Asset Management Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,598.20,598.20,false
+Atlas Pension Fund,12696,Atlas Asset Management Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,2172.23,2172.23,false
+Atlas Pension Fund,12701,Atlas Asset Management Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,643.25,643.25,false
+Atlas Pension Islamic Fund,12697,Atlas Asset Management Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,499.18,499.18,true
+Atlas Pension Islamic Fund,12698,Atlas Asset Management Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,471.21,471.21,true
+Atlas Pension Islamic Fund,12699,Atlas Asset Management Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,2414.60,2414.60,true
+Atlas Punjab Islamic Pension Fund,14965,Atlas Asset Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,102.82,102.82,true
+Atlas Punjab Pension Fund,14966,Atlas Asset Management Limited,VPS-Money Market,Employer Pension Funds,Low to High,103.16,103.16,false
+Atlas Sovereign Fund,12687,Atlas Asset Management Limited,Income,Open-End Funds,Medium,109.56,109.56,false
+Atlas Stock Market Fund,12682,Atlas Asset Management Limited,Equity,Open-End Funds,High,1908.19,1908.19,false
+AWT Financial Sector Income Fund,12875,AWT Investments Limited,Income,Open-End Funds,Medium,105.36,105.36,false
+AWT Income Fund,12867,AWT Investments Limited,Income,Open-End Funds,Medium,117.63,118.98,false
+AWT Islamic Asset Allocation Fund,14922,AWT Investments Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,167.88,171.74,true
+AWT Islamic Income Fund,12871,AWT Investments Limited,Shariah Compliant Income,Open-End Funds,Medium,112.92,115.52,true
+AWT Islamic Money Market Fund,14805,AWT Investments Limited,Shariah Compliant Money Market,Open-End Funds,Low,126.25,126.25,true
+AWT Islamic Pension Fund,14841,AWT Investments Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low,109.64,109.64,true
+AWT Islamic Pension Fund,14839,AWT Investments Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),High,117.64,117.64,true
+AWT Islamic Pension Fund,14840,AWT Investments Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,111.34,111.34,true
+AWT Islamic Stock Fund,12870,AWT Investments Limited,Shariah Compliant Equity,Open-End Funds,High,170.61,174.53,true
+EFU Hemayah Pension Fund,15009,EFU Life Assurance Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Medium,100.68,104.00,true
+EFU Hemayah Pension Fund,15008,EFU Life Assurance Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),High,83.68,87.00,true
+EFU Hemayah Pension Fund,15010,EFU Life Assurance Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low,101.28,104.00,true
+Faysal Halal Amdani Fund,12891,Faysal Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,108.46,110.95,true
+Faysal Halal Amdani Fund II,14883,Faysal Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,103.09,105.46,true
+Faysal Halal Amdani Fund III,14989,Faysal Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,102.10,104.45,true
+Faysal Islamic Asset Allocation Fund,12886,Faysal Asset Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,96.63,99.97,true
+Faysal Islamic Asset Allocation Fund II,14702,Faysal Asset Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,112.43,116.31,true
+Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan I),14919,Faysal Asset Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,103.22,106.78,true
+Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan II),14970,Faysal Asset Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,103.06,106.62,true
+Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan III),15031,Faysal Asset Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,101.34,104.83,true
+Faysal Islamic Cash Fund,12888,Faysal Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,106.59,109.04,true
+Faysal Islamic Dedicated Equity Fund,12916,Faysal Asset Management Limited,Shariah Compliant Dedicated Equity,Dedicated Equity Funds,High,108.21,111.95,true
+Faysal Islamic Financial Growth Fund (Faysal Islamic Financial Growth Plan I),14363,Faysal Asset Management Limited,Shariah Compliant Aggressive Fixed Income,Open-End Funds,Medium,106.49,108.94,true
+Faysal Islamic Financial Growth Fund (Faysal Islamic Financial Growth Plan II),14701,Faysal Asset Management Limited,Shariah Compliant Aggressive Fixed Income,Open-End Funds,Medium,106.69,110.37,true
+Faysal Islamic Financial Growth Fund II,14990,Faysal Asset Management Limited,Shariah Compliant Aggressive Fixed Income,Open-End Funds,Medium,102.62,106.16,true
+Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan I),14888,Faysal Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,113.06,116.96,true
+Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan II),14901,Faysal Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Moderate,105.55,109.19,true
+Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan III),14863,Faysal Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Low,107.11,110.81,true
+Faysal Islamic KPK Government Pension Fund,14578,Faysal Asset Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,131.55,131.55,true
+Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan I),14670,Faysal Asset Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Medium,124.17,124.17,true
+Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan VI),14859,Faysal Asset Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Medium,107.91,107.91,true
+Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XV),14992,Faysal Asset Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Medium,102.52,102.52,true
+Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XVI),15055,Faysal Asset Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Medium,100.41,100.41,true
+Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XVII),15056,Faysal Asset Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Medium,100.42,100.42,true
+Faysal Islamic Pension Fund,12910,Faysal Asset Management Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,178.62,184.78,true
+Faysal Islamic Pension Fund,12912,Faysal Asset Management Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,320.98,332.05,true
+Faysal Islamic Pension Fund,12911,Faysal Asset Management Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,183.26,189.58,true
+Faysal Islamic Punjab Pension Fund,14996,Faysal Asset Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,102.47,102.47,true
+Faysal Islamic Savings Growth Fund,12883,Faysal Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,111.61,114.18,true
+Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan I),12909,Faysal Asset Management Limited,Shariah Compliant Income,Open-End Funds,Low,105.67,108.10,true
+Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan II),14589,Faysal Asset Management Limited,Shariah Compliant Income,Open-End Funds,Low,105.10,107.52,true
+Faysal Islamic Special Income Plan I,12905,Faysal Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,10.75,10.99,true
+Faysal Islamic Stock Fund,12896,Faysal Asset Management Limited,Shariah Compliant Equity,Open-End Funds,High,109.12,112.88,true
+Faysal Islamic Stock Fund II,14817,Faysal Asset Management Limited,Shariah Compliant Equity,Open-End Funds,High,122.96,127.20,true
+Faysal Khushal Mustaqbil Fund (Faysal Barak’ah Women Savers Plan),14791,Faysal Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,106.17,109.84,true
+Faysal Khushal Mustaqbil Fund (Faysal Nu’umah Women Savers Plan),14789,Faysal Asset Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Plan Specific (Low to Moderate),106.19,109.86,true
+First Capital Mutual Fund,12917,First Capital Investments Limited,Equity,Open-End Funds,High,15.70,16.02,false
+Golden Arrow Stock Fund,12808,AKD Investment Management Limited,Equity,Open-End Funds,High,31.85,32.95,false
+HBL Cash Fund,12927,HBL Asset Management Limited,Money Market,Open-End Funds,Low,110.44,111.71,false
+HBL Energy Fund,12920,HBL Asset Management Limited,Equity,Open-End Funds,High,31.49,32.22,false
+HBL Equity Fund,12930,HBL Asset Management Limited,Equity,Open-End Funds,High,194.39,198.86,false
+HBL Financial Sector Income Fund Plan I,12952,HBL Asset Management Limited,Income,Open-End Funds,Medium,109.22,111.73,false
+HBL Financial Sector Income Fund Plan II,14609,HBL Asset Management Limited,Income,Open-End Funds,NA,101.27,103.60,false
+HBL Government Securities Fund,12925,HBL Asset Management Limited,Income,Open-End Funds,Medium,122.38,125.19,false
+HBL Growth Fund-Class A,12942,HBL Asset Management Limited,Equity,Open-End Funds,High,40.51,0.00,false
+HBL Growth Fund-Class B,12951,HBL Asset Management Limited,Equity,Open-End Funds,High,36.31,37.14,false
+HBL Income Fund,12921,HBL Asset Management Limited,Income,Open-End Funds,Medium,121.25,123.35,false
+HBL Investment Fund-Class A,12943,HBL Asset Management Limited,Equity,Open-End Funds,High,15.52,15.88,false
+HBL Investment Fund-Class B,12946,HBL Asset Management Limited,Equity,Open-End Funds,High,17.43,17.83,false
+HBL Islamic Asset Allocation Fund,12934,HBL Asset Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,283.84,290.37,true
+HBL Islamic Equity Fund,12932,HBL Asset Management Limited,Shariah Compliant Equity,Open-End Funds,High,180.49,184.65,true
+HBL Islamic Fixed Term Fund Plan II,15027,HBL Asset Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Low,101.96,101.96,true
+HBL Islamic Income Fund,12933,HBL Asset Management Limited,Shariah Compliant Income,Open-End Funds,Medium,111.16,113.72,true
+HBL Islamic Money Market Fund,12928,HBL Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,108.39,109.63,true
+HBL Islamic Pension Fund,12957,HBL Asset Management Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,1051.31,1051.31,true
+HBL Islamic Pension Fund,12958,HBL Asset Management Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,332.92,332.92,true
+HBL Islamic Pension Fund,12959,HBL Asset Management Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,314.86,314.86,true
+HBL Islamic Savings Plan I,14601,HBL Asset Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,107.26,109.40,true
+HBL Islamic Stock Fund,12929,HBL Asset Management Limited,Shariah Compliant Equity,Open-End Funds,High,226.63,231.85,true
+HBL KPK Islamic Pension Fund,14558,HBL Asset Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,132.46,132.46,true
+HBL KPK Pension Fund,14630,HBL Asset Management Limited,VPS-Money Market,Employer Pension Funds,NA,135.45,135.45,false
+HBL Mehfooz Munafa Fund Plan IV,14938,HBL Asset Management Limited,Fixed Rate / Return,Open-End Funds,Low,104.96,104.96,false
+HBL Mehfooz Munafa Fund Plan X,14896,HBL Asset Management Limited,Fixed Rate / Return,Open-End Funds,Low,106.27,106.27,false
+HBL Mehfooz Munafa Fund Plan XI,14945,HBL Asset Management Limited,Fixed Rate / Return,Open-End Funds,Low,103.74,103.74,false
+HBL Mehfooz Munafa Fund Plan XIII,14954,HBL Asset Management Limited,Fixed Rate / Return,Open-End Funds,Low,102.62,102.62,false
+HBL Money Market Fund,12924,HBL Asset Management Limited,Money Market,Open-End Funds,Low,110.39,111.66,false
+HBL Multi Asset Fund,12923,HBL Asset Management Limited,Balanced,Open-End Funds,High,202.30,206.95,false
+HBL Pension Fund,12955,HBL Asset Management Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,431.93,431.93,false
+HBL Pension Fund,12954,HBL Asset Management Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,917.10,917.10,false
+HBL Pension Fund,12956,HBL Asset Management Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,362.04,362.04,false
+HBL Stock Fund,12922,HBL Asset Management Limited,Equity,Open-End Funds,High,195.35,199.84,false
+HBL Total Treasury Exchange Traded Fund,12963,HBL Asset Management Limited,Exchange Traded Fund,Exchange Traded Fund (ETF),Medium,110.14,110.14,false
+JS Cash Fund,12978,JS Investments Limited,Money Market,Open-End Funds,Low,112.61,113.91,false
+JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan I),14644,JS Investments Limited,Fixed Rate / Return,Open-End Funds,NA,113.47,113.47,false
+JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XIX),15039,JS Investments Limited,Fixed Rate / Return,Open-End Funds,Low,99.46,99.46,false
+JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XV),14844,JS Investments Limited,Fixed Rate / Return,Open-End Funds,Moderate,108.20,108.20,false
+JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XX),15040,JS Investments Limited,Fixed Rate / Return,Open-End Funds,Moderate,100.15,100.15,false
+JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XXI),15045,JS Investments Limited,Fixed Rate / Return,Open-End Funds,Low,86.91,86.91,false
+JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan I),14853,JS Investments Limited,Fixed Rate / Return,Open-End Funds,Moderate,108.07,108.07,false
+JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan IV),14930,JS Investments Limited,Fixed Rate / Return,Open-End Funds,Moderate,102.80,102.80,false
+JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VI),14962,JS Investments Limited,Fixed Rate / Return,Open-End Funds,Moderate,101.50,101.50,false
+JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VII),15066,JS Investments Limited,Fixed Rate / Return,Open-End Funds,Moderate,98.17,98.17,false
+JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VIII),15073,JS Investments Limited,Fixed Rate / Return,Open-End Funds,Low,99.79,99.79,false
+JS Fund of Funds,12968,JS Investments Limited,Fund of Funds,Open-End Funds,Medium,143.60,148.56,false
+JS Government Securities Fund,13006,JS Investments Limited,Income,Open-End Funds,Medium,118.47,119.84,false
+JS Growth Fund,12986,JS Investments Limited,Equity,Open-End Funds,High,482.00,498.63,false
+JS Income Fund,12966,JS Investments Limited,Income,Open-End Funds,Medium,123.24,126.08,false
+JS Islamic Fund,12976,JS Investments Limited,Shariah Compliant Equity,Open-End Funds,High,233.75,241.82,true
+JS Islamic Income Fund,12983,JS Investments Limited,Shariah Compliant Income,Open-End Funds,Medium,112.65,113.95,true
+JS Islamic Money Market Fund,13002,JS Investments Limited,Shariah Compliant Money Market,Open-End Funds,Low,110.87,112.15,true
+JS Islamic Pension Savings Fund,13011,JS Investments Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,439.21,439.21,true
+JS Islamic Pension Savings Fund,13012,JS Investments Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,414.25,414.25,true
+JS Islamic Pension Savings Fund,13010,JS Investments Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,1732.08,1732.08,true
+JS Islamic Sarmaya Mehfooz Fund (JS Islamic Sarmaya Mehfooz Plan 1),14891,JS Investments Limited,Shariah Compliant Capital Protected,Open-End Funds,Low,98.20,101.59,true
+JS Islamic Sarmaya Mehfooz Fund Plan 2 2020,14997,JS Investments Limited,Shariah Compliant Capital Protected,Open-End Funds,Medium,95.51,98.81,true
+JS KPK Islamic Pension Fund,14562,JS Investments Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,135.86,135.86,true
+JS KPK Pension Fund,14629,JS Investments Limited,VPS-Money Market,Employer Pension Funds,NA,137.86,137.86,false
+JS Large Cap Fund,12979,JS Investments Limited,Equity,Open-End Funds,High,389.94,403.40,false
+JS Microfinance Sector Fund,13005,JS Investments Limited,Income,Open-End Funds,Medium,116.76,118.11,false
+JS Momentum Factor Exchange Traded Fund,13015,JS Investments Limited,Exchange Traded Fund,Exchange Traded Fund (ETF),Medium,10.40,10.40,false
+JS Money Market Fund,14368,JS Investments Limited,Money Market,Open-End Funds,Low,118.88,121.62,false
+JS Pension Savings Fund,13007,JS Investments Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,1591.51,1591.51,false
+JS Pension Savings Fund,13008,JS Investments Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,596.22,596.22,false
+JS Pension Savings Fund,13009,JS Investments Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,485.38,485.38,false
+JS Punjab Islamic Pension Fund,15020,JS Investments Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low,101.91,101.91,true
+JS Punjab Pension Fund,15018,JS Investments Limited,VPS-Money Market,Employer Pension Funds,Low,101.91,101.91,false
+KSE Meezan Index Fund,12826,Al Meezan Investment Management Limited,Shariah Compliant Index Tracker,Open-End Funds,High,168.14,172.42,true
+Lakson Asset Allocation Developed Markets Fund,13030,Lakson Investments Limited,Asset Allocation,Open-End Funds,High,194.86,200.48,false
+Lakson Equity Fund,13027,Lakson Investments Limited,Equity,Open-End Funds,High,295.11,305.30,false
+Lakson Fixed Return Fund Plan I,15062,Lakson Investments Limited,Fixed Rate / Return,Open-End Funds,Moderate,100.32,100.32,false
+Lakson Income Fund,13026,Lakson Investments Limited,Income,Open-End Funds,Medium,109.54,111.44,false
+Lakson Islamic Money Market Fund,13031,Lakson Investments Limited,Shariah Compliant Money Market,Open-End Funds,Low,108.25,109.49,true
+Lakson Islamic Tactical Fund,13029,Lakson Investments Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,86.85,89.35,true
+Lakson Money Market Fund,13025,Lakson Investments Limited,Money Market,Open-End Funds,Low,109.94,111.21,false
+Lakson Tactical Fund,13028,Lakson Investments Limited,Asset Allocation,Open-End Funds,High,111.02,114.22,false
+Lucky Islamic Cash Fund,15033,Lucky Investments Limited,Shariah Compliant Money Market,Open-End Funds,Low,100.03,103.00,true
+Lucky Islamic Energy Fund,15022,Lucky Investments Limited,Shariah Compliant Equity,Open-End Funds,High,88.59,91.65,true
+Lucky Islamic Fixed Term Fund Plan VII,14991,Lucky Investments Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Very Low,102.63,102.63,true
+Lucky Islamic Fixed Term Fund Plan XII,15050,Lucky Investments Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Very Low,100.96,100.96,true
+Lucky Islamic Income Fund,14848,Lucky Investments Limited,Shariah Compliant Income,Open-End Funds,Medium,107.33,111.04,true
+Lucky Islamic Money Market Fund,14836,Lucky Investments Limited,Shariah Compliant Money Market,Open-End Funds,Low,107.18,110.87,true
+Lucky Islamic Pension Fund,14951,Lucky Investments Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,103.29,106.86,true
+Lucky Islamic Pension Fund,14950,Lucky Investments Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,103.21,106.77,true
+Lucky Islamic Pension Fund,14953,Lucky Investments Limited,VPS-Shariah Compliant Commodities / Gold,Voluntary Pension Scheme (VPS),Low to High,112.91,116.80,true
+Lucky Islamic Pension Fund,14952,Lucky Investments Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,95.25,98.53,true
+Lucky Islamic Punjab Pension Fund,15007,Lucky Investments Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,101.91,101.91,true
+Lucky Islamic Stock Fund,14849,Lucky Investments Limited,Shariah Compliant Equity,Open-End Funds,High,122.23,126.45,true
+Mahaana IGI Islamic Retirement Fund,14909,IGI Life Insurance Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Medium,10.91,10.91,true
+Mahaana IGI Islamic Retirement Fund,14908,IGI Life Insurance Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low,10.78,10.78,true
+Mahaana IGI Islamic Retirement Fund,14907,IGI Life Insurance Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),High,11.57,11.57,true
+Mahaana Islamic Cash Fund,14555,Mahaana Wealth Limited,Shariah Compliant Money Market,Open-End Funds,Medium,114.14,114.14,true
+Mahaana Islamic Index Exchange Traded Fund,14620,Mahaana Wealth Limited,Shariah Compliant Exchange Traded Fund,Exchange Traded Fund (ETF),Medium,15.70,15.70,true
+MCB Alhamra KPK Govt Employees Pension Fund,14575,MCB Investment Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,135.25,135.25,true
+MCB Cash Management Optimizer,12723,MCB Investment Management Limited,Money Market,Open-End Funds,Low,109.41,109.41,false
+MCB DCF Fixed Return III (Plan IV),14727,MCB Investment Management Limited,Fixed Rate / Return,Open-End Funds,Very Low,107.70,107.70,false
+MCB DCF Income Fund,12722,MCB Investment Management Limited,Income,Open-End Funds,Medium,116.51,118.52,false
+MCB Government Securities Plan I,14744,MCB Investment Management Limited,Income,Open-End Funds,Medium,107.24,109.71,false
+MCB Investment Savings Plan I,14699,MCB Investment Management Limited,Aggressive Fixed Income,Open-End Funds,Medium,108.71,109.96,false
+MCB KPK Govt Employees Pension Fund,14597,MCB Investment Management Limited,VPS-Money Market,Employer Pension Funds,NA,136.98,136.98,false
+MCB Pakistan Asset Allocation Fund,12720,MCB Investment Management Limited,Asset Allocation,Open-End Funds,High,221.98,229.64,false
+MCB Pakistan Fixed Return Plan 25,14924,MCB Investment Management Limited,Fixed Rate / Return,Open-End Funds,Low,104.73,104.73,false
+MCB Pakistan Opportunity Fund (MCB Pakistan Dividend Yield Plan),12747,MCB Investment Management Limited,Asset Allocation,Open-End Funds,High,345.55,357.47,false
+MCB Pakistan Sovereign Fund,12728,MCB Investment Management Limited,Income,Open-End Funds,Medium,58.40,59.41,false
+MCB Pakistan Stock Market Fund,12724,MCB Investment Management Limited,Equity,Open-End Funds,High,335.40,346.97,false
+MCB Punjab Pension Fund,14987,MCB Investment Management Limited,VPS-Money Market,Employer Pension Funds,Low to High,102.46,102.46,false
+Meezan Asset Allocation Fund,12843,Al Meezan Investment Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,105.59,109.24,true
+Meezan Balanced Fund,12822,Al Meezan Investment Management Limited,Shariah Compliant Balanced,Open-End Funds,Medium,25.88,26.48,true
+Meezan Cash Fund,12820,Al Meezan Investment Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,54.80,54.80,true
+Meezan Daily Income Fund (MDIP I),12854,Al Meezan Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,50.00,50.58,true
+Meezan Daily Income Fund (Meezan Mahana Munafa Plan),12855,Al Meezan Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,50.00,50.00,true
+Meezan Daily Income Fund (Meezan Munafa Plan I),14406,Al Meezan Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,53.82,54.44,true
+Meezan Daily Income Fund (Meezan Sehl Account Plan) (MSHP),14407,Al Meezan Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,53.36,53.36,true
+Meezan Daily Income Fund (Meezan Super Saver Plan) (MSSP),14652,Al Meezan Investment Management Limited,Shariah Compliant Income,Open-End Funds,Low,53.54,53.54,true
+Meezan Dedicated Equity Fund,12864,Al Meezan Investment Management Limited,Shariah Compliant Dedicated Equity,Dedicated Equity Funds,High,83.45,86.33,true
+Meezan Dynamic Asset Allocation Fund (Meezan Dividend Yield Plan),14709,Al Meezan Investment Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,Moderate,82.91,84.81,true
+Meezan Energy Fund,12837,Al Meezan Investment Management Limited,Shariah Compliant Equity,Open-End Funds,High,56.85,58.81,true
+Meezan Financial Planning Fund of Funds (Aggressive),12827,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,168.79,172.68,true
+Meezan Financial Planning Fund of Funds (Conservative),12828,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,118.86,120.23,true
+Meezan Financial Planning Fund of Funds (MAAP I),12838,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,129.99,0.00,true
+Meezan Financial Planning Fund of Funds (Moderate),12829,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,137.77,140.15,true
+Meezan Financial Planning Fund of Funds (Very Conservative Allocation Plan),14408,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,54.00,54.63,true
+Meezan GOKP Pension Fund,14638,Al Meezan Investment Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,139.48,0.00,true
+Meezan Gold Fund,12840,Al Meezan Investment Management Limited,Shariah Compliant Commodities,Open-End Funds,High,319.91,330.47,true
+Meezan Islamic Asaan Cash Fund,15043,Al Meezan Investment Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,50.56,50.56,true
+Meezan Islamic Fund,12817,Al Meezan Investment Management Limited,Shariah Compliant Equity,Open-End Funds,High,148.88,152.31,true
+Meezan Islamic Government of Punjab Pension Fund,14969,Al Meezan Investment Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,166.79,171.05,true
+Meezan Islamic Income Fund,12818,Al Meezan Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,55.01,55.65,true
+Meezan Paidaar Munafa Plan 34,15063,Al Meezan Investment Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Very Low,50.13,0.00,true
+Meezan Paidaar Munafa Plan 36,15035,Al Meezan Investment Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Low,50.69,0.00,true
+Meezan Paidaar Munafa Plan 37,15046,Al Meezan Investment Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Low,50.45,0.00,true
+Meezan Paidaar Munafa Plan 38,15064,Al Meezan Investment Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Very Low,50.16,0.00,true
+Meezan Paidaar Munafa Plan 39,15065,Al Meezan Investment Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Low,50.16,0.00,true
+Meezan Pakistan ETF,12865,Al Meezan Investment Management Limited,Shariah Compliant Exchange Traded Fund,Exchange Traded Fund (ETF),Medium,19.17,19.17,true
+Meezan Rozana Amdani Fund,12852,Al Meezan Investment Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,50.00,50.00,true
+Meezan Sovereign Fund,12824,Al Meezan Investment Management Limited,Shariah Compliant Income,Open-End Funds,Medium,55.24,55.88,true
+Meezan Strategic Allocation Fund (MSAP I),12836,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,82.67,0.00,true
+Meezan Strategic Allocation Fund (MSAP II),12834,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,70.11,0.00,true
+Meezan Strategic Allocation Fund (MSAP III),12835,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,78.18,0.00,true
+Meezan Strategic Allocation Fund (MSAP IV),12845,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,82.07,0.00,true
+Meezan Strategic Allocation Fund (MSAP V),12839,Al Meezan Investment Management Limited,Shariah Compliant Fund of Funds,Open-End Funds,Medium,92.47,0.00,true
+Meezan Tahaffuz Pension Fund,12860,Al Meezan Investment Management Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,1578.57,0.00,true
+Meezan Tahaffuz Pension Fund,12862,Al Meezan Investment Management Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,511.07,0.00,true
+Meezan Tahaffuz Pension Fund,12861,Al Meezan Investment Management Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,513.39,0.00,true
+Meezan Tahaffuz Pension Fund,12863,Al Meezan Investment Management Limited,VPS-Shariah Compliant Commodities / Gold,Voluntary Pension Scheme (VPS),Low to High,593.77,0.00,true
+NAFA Islamic Pension Fund,13099,NBP Fund Management Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,290.63,290.63,true
+NAFA Islamic Pension Fund,13100,NBP Fund Management Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,1093.69,1093.69,true
+NAFA Islamic Pension Fund,13101,NBP Fund Management Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,296.54,296.54,true
+NAFA Pension Fund,13097,NBP Fund Management Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,1250.33,1250.33,false
+NAFA Pension Fund,13096,NBP Fund Management Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,390.01,390.01,false
+NAFA Pension Fund,13098,NBP Fund Management Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,333.04,333.04,false
+National Investment Unit Trust,13034,National Investment Trust Limited,Equity,Open-End Funds,High,138.65,142.85,false
+NBP Balanced Fund,13055,NBP Fund Management Limited,Balanced,Open-End Funds,High,39.60,40.96,false
+NBP Cash Plan I,13093,NBP Fund Management Limited,Money Market,Open-End Funds,Low,10.76,11.14,false
+NBP Cash Plan II,13094,NBP Fund Management Limited,Money Market,Open-End Funds,Low,10.00,10.35,false
+NBP Financial Sector Fund,13081,NBP Fund Management Limited,Equity,Open-End Funds,High,23.29,24.09,false
+NBP Financial Sector Income Fund,13062,NBP Fund Management Limited,Income,Open-End Funds,Medium,11.45,11.59,false
+NBP Fixed Term Munafa Plan XIB (NBP Mustahkam Fund II),15070,NBP Fund Management Limited,Fixed Rate / Return,Open-End Funds,Moderate,10.00,10.00,false
+NBP Fixed Term Munafa Plan XIIA (NBP Mustahkam Fund II),14981,NBP Fund Management Limited,Fixed Rate / Return,Open-End Funds,Moderate,10.24,10.24,false
+NBP Fixed Term Munafa Plan XIII (NBP Mustahkam Fund II),14934,NBP Fund Management Limited,Fixed Rate / Return,Open-End Funds,Moderate,10.44,10.44,false
+NBP Fixed Term Munafa Plan XIIIA (NBP Mustahkam Fund II),15060,NBP Fund Management Limited,Fixed Rate / Return,Open-End Funds,Moderate,10.01,10.01,false
+NBP Fixed Term Munafa Plan XIX,14743,NBP Fund Management Limited,Fixed Rate / Return,Open-End Funds,Very Low,10.73,10.73,false
+NBP Fixed Term Munafa Plan XIXA (NBP Mustahkam Fund II),15053,NBP Fund Management Limited,Fixed Rate / Return,Open-End Funds,Moderate,10.06,10.06,false
+NBP Fixed Term Munafa Plan XXA (NBP Mustahkam Fund II),15069,NBP Fund Management Limited,Fixed Rate / Return,Open-End Funds,Moderate,10.00,10.00,false
+NBP GoKP Islamic Pension Fund,14624,NBP Fund Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,NA,135.93,135.93,true
+NBP GoKP Pension Fund,14614,NBP Fund Management Limited,VPS-Money Market,Employer Pension Funds,NA,137.88,137.88,false
+NBP Government Securities Liquid Fund,13059,NBP Fund Management Limited,Money Market,Open-End Funds,Low,11.00,11.12,false
+NBP Government Securities Plan IV,14374,NBP Fund Management Limited,Income,Open-End Funds,Medium,10.75,11.12,false
+NBP Government Securities Plan VIII,14906,NBP Fund Management Limited,Income,Open-End Funds,Medium,10.59,10.95,false
+NBP Government Securities Savings Fund,13066,NBP Fund Management Limited,Income,Open-End Funds,Medium,11.24,11.37,false
+NBP Income Opportunity Fund,13053,NBP Fund Management Limited,Income,Open-End Funds,Medium,12.01,12.15,false
+NBP Income Plan I,13095,NBP Fund Management Limited,Income,Open-End Funds,Medium,10.15,10.50,false
+NBP Islamic Daily Dividend Fund,13089,NBP Fund Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,10.00,10.12,true
+NBP Islamic Energy Fund,13074,NBP Fund Management Limited,Shariah Compliant Equity,Open-End Funds,High,21.03,21.75,true
+NBP Islamic Fixed Term Munafa Plan IIA (NBP Islamic Mustahkam Fund),15037,NBP Fund Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Moderate,10.11,10.11,true
+NBP Islamic Fixed Term Munafa Plan IVA (NBP Islamic Mustahkam Fund),15052,NBP Fund Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Moderate,10.05,10.05,true
+NBP Islamic Fixed Term Munafa Plan VA (NBP Islamic Mustahkam Fund),15058,NBP Fund Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Moderate,10.01,10.01,true
+NBP Islamic Fixed Term Munafa Plan VIA (NBP Islamic Mustahkam Fund),15072,NBP Fund Management Limited,Shariah Compliant Fixed Rate / Return,Open-End Funds,Moderate,10.00,10.00,true
+NBP Islamic Government Securities Plan III,14596,NBP Fund Management Limited,Shariah Compliant Income,Open-End Funds,Low,10.59,10.95,true
+NBP Islamic Income Fund,13067,NBP Fund Management Limited,Shariah Compliant Income,Open-End Funds,Medium,10.74,10.86,true
+NBP Islamic Mahana Amdani Fund,13085,NBP Fund Management Limited,Shariah Compliant Income,Open-End Funds,Medium,10.77,10.90,true
+NBP Islamic Money Market Fund,13082,NBP Fund Management Limited,Shariah Compliant Money Market,Open-End Funds,Low,10.88,11.00,true
+NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan I),14928,NBP Fund Management Limited,Shariah Compliant Capital Protected,Open-End Funds,Medium,10.02,10.02,true
+NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan II),15012,NBP Fund Management Limited,Shariah Compliant Capital Protected,Open-End Funds,Medium,9.92,10.26,true
+NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan III),15041,NBP Fund Management Limited,Shariah Compliant Capital Protected,Open-End Funds,Medium,9.65,9.98,true
+NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan IV),15057,NBP Fund Management Limited,Shariah Compliant Capital Protected,Open-End Funds,Medium,10.03,10.38,true
+NBP Islamic Punjab Pension Fund,15029,NBP Fund Management Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,101.37,101.37,true
+NBP Islamic Sarmaya Izafa Fund,13057,NBP Fund Management Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,32.52,33.64,true
+NBP Islamic Savings Fund,13056,NBP Fund Management Limited,Shariah Compliant Income,Open-End Funds,Medium,10.22,10.57,true
+NBP Islamic Stock Fund,13068,NBP Fund Management Limited,Shariah Compliant Equity,Open-End Funds,High,22.36,23.13,true
+NBP Mahana Amdani Fund,13052,NBP Fund Management Limited,Income,Open-End Funds,Medium,11.06,11.19,false
+NBP Money Market Fund,13063,NBP Fund Management Limited,Money Market,Open-End Funds,Low,10.73,10.85,false
+NBP Pakistan Growth Exchange Traded Fund,13103,NBP Fund Management Limited,Exchange Traded Fund,Exchange Traded Fund (ETF),Medium,28.56,28.56,false
+NBP Punjab Pension Fund,15030,NBP Fund Management Limited,VPS-Money Market,Employer Pension Funds,Low to High,101.63,101.63,false
+NBP Riba Free Savings Fund,13060,NBP Fund Management Limited,Shariah Compliant Income,Open-End Funds,Medium,11.05,11.18,true
+NBP Sarmaya Izafa Fund,13061,NBP Fund Management Limited,Asset Allocation,Open-End Funds,High,36.31,37.56,false
+NBP Savings Fund,13058,NBP Fund Management Limited,Income,Open-End Funds,Medium,10.89,11.27,false
+NBP Stock Fund,13054,NBP Fund Management Limited,Equity,Open-End Funds,High,39.26,40.62,false
+NIT - Government Bond Fund,13036,National Investment Trust Limited,Income,Open-End Funds,Medium,10.67,10.78,false
+NIT - Income Fund,13037,National Investment Trust Limited,Income,Open-End Funds,Medium,11.02,11.13,false
+NIT Asset Allocation Fund,13041,National Investment Trust Limited,Asset Allocation,Open-End Funds,High,19.12,19.60,false
+NIT Islamic Equity Fund,13038,National Investment Trust Limited,Shariah Compliant Equity,Open-End Funds,High,17.86,17.86,true
+NIT Islamic Income Fund,13040,National Investment Trust Limited,Shariah Compliant Income,Open-End Funds,Medium,10.33,10.33,true
+NIT Islamic Money Market Fund,13042,National Investment Trust Limited,Shariah Compliant Money Market,Open-End Funds,Low,108.38,109.46,true
+NIT Islamic Pension Fund,13049,National Investment Trust Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,25.29,25.29,true
+NIT Islamic Pension Fund,13047,National Investment Trust Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,25.49,25.49,true
+NIT Islamic Pension Fund,13048,National Investment Trust Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,29.17,29.17,true
+NIT KP Islamic Pension Fund,14650,National Investment Trust Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,131.59,131.59,true
+NIT KP Pension Fund,14570,National Investment Trust Limited,VPS-Money Market,Employer Pension Funds,Low to High,135.49,135.49,false
+NIT Money Market Fund,13039,National Investment Trust Limited,Money Market,Open-End Funds,Low,10.47,10.47,false
+NIT Pakistan Gateway Exchange Traded Fund,13051,National Investment Trust Limited,Exchange Traded Fund,Exchange Traded Fund (ETF),Medium,33.71,33.71,false
+NIT Pension Fund,13044,National Investment Trust Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,29.24,29.24,false
+NIT Pension Fund,13046,National Investment Trust Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,28.53,28.53,false
+NIT Pension Fund,13045,National Investment Trust Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,30.43,30.43,false
+NIT Pension Fund,13050,National Investment Trust Limited,VPS-Commodities / Gold,Voluntary Pension Scheme (VPS),Low to High,58.05,58.05,false
+NIT Social Impact Fund,13043,National Investment Trust Limited,Income,Open-End Funds,Medium,11.05,11.05,false
+Pak Oman Advantage Asset Allocation Fund,13104,Pak Oman Asset Management Company Limited,Asset Allocation,Open-End Funds,High,41.31,42.48,false
+Pak Oman Advantage Islamic Income Fund,13105,Pak Oman Asset Management Company Limited,Shariah Compliant Income,Open-End Funds,Medium,55.77,56.40,true
+Pak Oman Daily Dividend Fund,13119,Pak Oman Asset Management Company Limited,Shariah Compliant Money Market,Open-End Funds,Low,10.00,10.05,true
+Pak Oman Income Fund,13116,Pak Oman Asset Management Company Limited,Income,Open-End Funds,Medium,11.50,11.50,false
+Pak Oman Islamic Asset Allocation Fund,13106,Pak Oman Asset Management Company Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,39.97,41.10,true
+Pak Oman Micro Finance Fund,14673,Pak Oman Asset Management Company Limited,Income,Open-End Funds,NA,108.18,108.18,false
+Pak Qatar Asan Munafa Plan,13123,Pak-Qatar Asset Management Company Limited,Shariah Compliant Money Market,Open-End Funds,Low,114.59,118.55,true
+Pak Qatar Asset Allocation Plan I (PQAAP IA),14364,Pak-Qatar Asset Management Company Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,127.51,131.91,true
+Pak Qatar Asset Allocation Plan II (PQAAP IIA),14365,Pak-Qatar Asset Management Company Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,125.07,129.38,true
+Pak Qatar Cash Plan,13125,Pak-Qatar Asset Management Company Limited,Shariah Compliant Money Market,Open-End Funds,Low,121.09,125.27,true
+Pak Qatar Daily Dividend Plan,13124,Pak-Qatar Asset Management Company Limited,Shariah Compliant Money Market,Open-End Funds,Low,100.00,103.45,true
+Pak Qatar GoKP Islamic Pension Fund,15006,Pak-Qatar Family Takaful Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,101.13,104.62,true
+Pak Qatar GoPB Islamic Pension Fund,15024,Pak-Qatar Family Takaful Limited,VPS-Shariah Compliant Money Market,Employer Pension Funds,Low to High,101.53,105.03,true
+Pak Qatar Income Plan,13126,Pak-Qatar Asset Management Company Limited,Shariah Compliant Income,Open-End Funds,Medium,125.11,129.42,true
+Pak Qatar Islamic Pension Fund,13128,Pak-Qatar Family Takaful Limited,VPS-Shariah Compliant Equity,Voluntary Pension Scheme (VPS),Low to High,282.75,292.50,true
+Pak Qatar Islamic Pension Fund,13129,Pak-Qatar Family Takaful Limited,VPS-Shariah Compliant Money Market,Voluntary Pension Scheme (VPS),Low to High,161.77,167.36,true
+Pak Qatar Islamic Pension Fund,13130,Pak-Qatar Family Takaful Limited,VPS-Shariah Compliant Debt,Voluntary Pension Scheme (VPS),Low to High,164.80,170.48,true
+Pak Qatar Islamic Stock Fund,13121,Pak-Qatar Asset Management Company Limited,Shariah Compliant Equity,Open-End Funds,High,248.38,256.95,true
+Pak Qatar Khalis Bachat Plan,13122,Pak-Qatar Asset Management Company Limited,Shariah Compliant Income,Open-End Funds,Medium,121.96,126.17,true
+Pak Qatar Monthly Income Plan,13127,Pak-Qatar Asset Management Company Limited,Shariah Compliant Income,Open-End Funds,Medium,100.23,103.69,true
+Pak-Qatar Asset Allocation Plan III (PQAAP IIIA),14721,Pak-Qatar Asset Management Company Limited,Shariah Compliant Asset Allocation,Open-End Funds,High,161.12,166.67,true
+Pakistan Capital Market Fund,12727,MCB Investment Management Limited,Balanced,Open-End Funds,High,29.14,29.81,false
+Pakistan Cash Management Fund,12730,MCB Investment Management Limited,Money Market,Open-End Funds,Low,50.47,51.05,false
+Pakistan Income Enhancement Fund,12731,MCB Investment Management Limited,Aggressive Fixed Income,Open-End Funds,Medium,63.19,64.64,false
+Pakistan Income Fund,12726,MCB Investment Management Limited,Income,Open-End Funds,Medium,62.70,64.14,false
+Pakistan Pension Fund,12760,MCB Investment Management Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,543.33,543.33,false
+Pakistan Pension Fund,12758,MCB Investment Management Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,2181.99,2181.99,false
+Pakistan Pension Fund,12759,MCB Investment Management Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,635.76,635.76,false
+UBL Asset Allocation Fund,13150,UBL Fund Managers Limited,Asset Allocation,Open-End Funds,High,314.11,324.95,false
+UBL Cash Fund,13185,UBL Fund Managers Limited,Money Market,Open-End Funds,Low,107.11,107.11,false
+UBL Financial Sector Fund,13172,UBL Fund Managers Limited,Equity,Open-End Funds,High,325.58,336.81,false
+UBL Fixed Return Plan II (AB),14876,UBL Fund Managers Limited,Fixed Rate / Return,Open-End Funds,Very Low,107.40,107.40,false
+UBL Fixed Return Plan II (M),14679,UBL Fund Managers Limited,Fixed Rate / Return,Open-End Funds,NA,108.47,108.47,false
+UBL Fixed Return Plan III (X),14798,UBL Fund Managers Limited,Fixed Rate / Return,Open-End Funds,Very Low,107.67,107.67,false
+UBL Fixed Return Plan III (Y),14877,UBL Fund Managers Limited,Fixed Rate / Return,Open-End Funds,Very Low,103.44,103.44,false
+UBL Fixed Return Plan III (Z),14899,UBL Fund Managers Limited,Fixed Rate / Return,Open-End Funds,Very Low,106.41,106.41,false
+UBL Fixed Return Plan IV (G),14704,UBL Fund Managers Limited,Fixed Rate / Return,Open-End Funds,Very Low,106.83,106.83,false
+UBL Fixed Return Plan IV (M),14815,UBL Fund Managers Limited,Fixed Rate / Return,Open-End Funds,Very Low,108.19,108.19,false
+UBL Fixed Return Plan IV (O),14820,UBL Fund Managers Limited,Fixed Rate / Return,Open-End Funds,Very Low,106.95,106.95,false
+UBL Government Securities Fund,13144,UBL Fund Managers Limited,Income,Open-End Funds,Medium,114.33,115.64,false
+UBL Growth & Income Fund,13134,UBL Fund Managers Limited,Aggressive Fixed Income,Open-End Funds,Medium,91.75,93.33,false
+UBL Income Opportunity Fund,13133,UBL Fund Managers Limited,Income,Open-End Funds,Medium,116.34,118.35,false
+UBL Liquidity Fund,14921,UBL Fund Managers Limited,Money Market,Open-End Funds,Low,105.23,105.23,false
+UBL Liquidity Plus Fund,13138,UBL Fund Managers Limited,Money Market,Open-End Funds,Low,108.43,108.43,false
+UBL Money Market Fund,13141,UBL Fund Managers Limited,Money Market,Open-End Funds,Low,108.14,109.38,false
+UBL Pakistan Enterprise Exchange Traded Fund,13210,UBL Fund Managers Limited,Exchange Traded Fund,Exchange Traded Fund (ETF),Medium,36.61,36.61,false
+UBL Punjab Pension Fund,15025,UBL Fund Managers Limited,VPS-Money Market,Employer Pension Funds,Low,101.91,101.91,false
+UBL Retirement Saving Fund,13204,UBL Fund Managers Limited,VPS-Money Market,Voluntary Pension Scheme (VPS),Low to High,419.64,419.64,false
+UBL Retirement Saving Fund,13203,UBL Fund Managers Limited,VPS-Equity,Voluntary Pension Scheme (VPS),Low to High,3129.37,3129.37,false
+UBL Retirement Saving Fund,13206,UBL Fund Managers Limited,VPS-Commodities / Gold,Voluntary Pension Scheme (VPS),Low to High,506.31,506.31,false
+UBL Retirement Saving Fund,13205,UBL Fund Managers Limited,VPS-Debt,Voluntary Pension Scheme (VPS),Low to High,547.43,547.43,false
+UBL Special Savings Plan V,14421,UBL Fund Managers Limited,Capital Protected - Income,Open-End Funds,Low,100.40,101.55,false
+UBL Special Savings Plan X,14403,UBL Fund Managers Limited,Capital Protected - Income,Open-End Funds,Low,109.10,110.73,false
+UBL Stock Advantage Fund,13135,UBL Fund Managers Limited,Equity,Open-End Funds,High,244.18,251.20,false
+UBL Voluntary Pension Fund KPK,14621,UBL Fund Managers Limited,VPS-Money Market,Employer Pension Funds,NA,138.65,138.65,false
+Unit Trust of Pakistan,12965,JS Investments Limited,Balanced,Open-End Funds,High,407.79,421.86,false
+786 Islamic Money Market Fund,14750,786 Investments Limited,Shariah Compliant Money Market,Open-End Funds,Medium,106.95,108.02,true
+786 Smart Fund,12814,786 Investments Limited,Shariah Compliant Income,Open-End Funds,Medium,89.72,90.62,true

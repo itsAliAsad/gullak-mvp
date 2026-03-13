@@ -1,0 +1,523 @@
+fund_id,fund_name,category,shariah_flag,benchmark_name,policy_status
+14750,786 Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+12814,786 Smart Fund,Shariah Compliant Income,true,,mapped
+12768,ABL Cash Fund,Money Market,false,,mapped
+12775,ABL Financial Planning Fund (Conservative Plan),Fund of Funds,false,KSE100,mapped
+12783,ABL Financial Planning Fund (Strategic Allocation Plan),Fund of Funds,false,KSE100,mapped
+14347,ABL Financial Sector Fund Plan I,Income,false,,mapped
+14874,ABL Fixed Rate Plan XIX,Fixed Rate / Return,false,,mapped
+14982,ABL Fixed Rate Plan XXII,Fixed Rate / Return,false,,mapped
+14994,ABL Fixed Rate Plan XXIII,Fixed Rate / Return,false,,mapped
+15051,ABL Fixed Rate Plan XXIV,Fixed Rate / Return,false,,mapped
+14657,ABL GOKP Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14668,ABL GOKP Pension Fund,VPS-Money Market,false,,mapped
+14975,ABL GOPB Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14974,ABL GOPB Pension Fund,VPS-Money Market,false,,mapped
+12767,ABL Government Securities Fund,Income,false,,mapped
+12765,ABL Income Fund,Income,false,,mapped
+12786,ABL Islamic Asset Allocation Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+12793,ABL Islamic Cash Fund,Shariah Compliant Money Market,true,,mapped
+12804,ABL Islamic Dedicated Stock Fund,Shariah Compliant Dedicated Equity,true,KMI30,mapped
+12780,ABL Islamic Financial Planning Fund (Active Allocation Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12788,ABL Islamic Financial Planning Fund (Capital Preservation Plan I),Shariah Compliant Fund of Funds - CPPI,true,,mapped
+12776,ABL Islamic Financial Planning Fund (Conservative Allocation Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+15061,ABL Islamic Fixed Term Plan V,Shariah Compliant Fixed Rate / Return,true,,mapped
+12769,ABL Islamic Income Fund,Shariah Compliant Income,true,,mapped
+14623,ABL Islamic Money Market Plan I,Shariah Compliant Money Market,true,,mapped
+12801,ABL Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+12802,ABL Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+12803,ABL Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14692,ABL Islamic Sovereign Plan I,Shariah Compliant Income,true,,mapped
+12772,ABL Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+14613,ABL Money Market Plan I,Money Market,false,,mapped
+14913,ABL Optimal Asset Allocation Fund,Asset Allocation,false,KSE100,mapped
+12798,ABL Pension Fund,VPS-Debt,false,,mapped
+12799,ABL Pension Fund,VPS-Equity,false,KSE100,mapped
+12800,ABL Pension Fund,VPS-Money Market,false,,mapped
+12789,ABL Special Saving Fund (ABL Special Saving Plan I),Capital Protected,false,KSE100,mapped
+12790,ABL Special Saving Fund (ABL Special Saving Plan II),Capital Protected,false,KSE100,mapped
+12791,ABL Special Saving Fund (ABL Special Saving Plan III),Capital Protected,false,KSE100,mapped
+12792,ABL Special Saving Fund (ABL Special Saving Plan IV),Capital Protected,false,KSE100,mapped
+12794,ABL Special Saving Fund (ABL Special Saving Plan V),Capital Protected,false,KSE100,mapped
+12796,ABL Special Saving Fund (ABL Special Saving Plan VI),Capital Protected,false,KSE100,mapped
+12766,ABL Stock Fund,Equity,false,KSE100,mapped
+12805,AKD Aggressive Income Fund,Aggressive Fixed Income,false,,mapped
+12809,AKD Cash Fund,Money Market,false,,mapped
+12807,AKD Index Tracker Fund,Index Tracker,false,KSE100,mapped
+12813,AKD Islamic Cash Fund,Shariah Compliant Money Market,true,,mapped
+12810,AKD Islamic Income Fund,Shariah Compliant Income,true,,mapped
+12811,AKD Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+12806,AKD Opportunity Fund,Equity,false,KSE100,mapped
+12710,AL Habib Asset Allocation Fund,Asset Allocation,false,KSE100,mapped
+12707,AL Habib Cash Fund,Money Market,false,,mapped
+14811,AL Habib Fixed Return Fund Plan 19,Fixed Rate / Return,false,,mapped
+14861,AL Habib Fixed Return Fund Plan 22,Fixed Rate / Return,false,,mapped
+14904,AL Habib Fixed Return Fund Plan 23,Fixed Rate / Return,false,,mapped
+14905,AL Habib Fixed Return Fund Plan 24,Fixed Rate / Return,false,,mapped
+15067,AL Habib Fixed Return Fund Plan 28,Fixed Rate / Return,false,,mapped
+15059,AL Habib Fixed Return Fund Plan 29,Fixed Rate / Return,false,,mapped
+14561,AL Habib GOKP Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14618,AL Habib GOKP Pension Fund,VPS-Money Market,false,,mapped
+14335,AL Habib Government Securities Fund,Income,false,,mapped
+12706,AL Habib Income Fund,Income,false,,mapped
+12712,AL Habib Islamic Cash Fund,Shariah Compliant Money Market,true,,mapped
+12709,AL Habib Islamic Income Fund,Shariah Compliant Income,true,,mapped
+15068,AL Habib Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+12717,AL Habib Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+12718,AL Habib Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+12719,AL Habib Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12713,AL Habib Islamic Savings Fund,Shariah Compliant Income,true,,mapped
+12708,AL Habib Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+12711,AL Habib Money Market Fund,Money Market,false,,mapped
+12714,AL Habib Pension Fund,VPS-Equity,false,KSE100,mapped
+12715,AL Habib Pension Fund,VPS-Debt,false,,mapped
+12716,AL Habib Pension Fund,VPS-Money Market,false,,mapped
+14866,AL Habib Sovereign Income Fund Plan 1,Income,false,,mapped
+14872,AL Habib Sovereign Income Fund Plan 2,Income,false,,mapped
+14873,AL Habib Sovereign Income Fund Plan 3,Income,false,,mapped
+12705,AL Habib Stock Fund,Equity,false,KSE100,mapped
+12875,AWT Financial Sector Income Fund,Income,false,,mapped
+12867,AWT Income Fund,Income,false,,mapped
+14922,AWT Islamic Asset Allocation Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+12871,AWT Islamic Income Fund,Shariah Compliant Income,true,,mapped
+14805,AWT Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+14839,AWT Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+14840,AWT Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+14841,AWT Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12870,AWT Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+13137,Al Ameen Islamic Aggressive Income Fund,Shariah Compliant Aggressive Fixed Income,true,,mapped
+13189,Al Ameen Islamic Aggressive Income Plan I,Shariah Compliant Aggressive Fixed Income,true,,mapped
+13152,Al Ameen Islamic Asset Allocation Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+13146,Al Ameen Islamic Cash Fund,Shariah Compliant Money Market,true,,mapped
+13190,Al Ameen Islamic Cash Plan I,Shariah Compliant Money Market,true,,mapped
+13186,Al Ameen Islamic Energy Fund,Shariah Compliant Equity,true,KMI30,mapped
+14381,Al Ameen Islamic Income Fund,Shariah Compliant Income,true,,mapped
+15026,Al Ameen Islamic Punjab Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+13200,Al Ameen Islamic Retirement Savings Fund,VPS-Shariah Compliant Debt,true,,mapped
+13201,Al Ameen Islamic Retirement Savings Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+13202,Al Ameen Islamic Retirement Savings Fund,VPS-Shariah Compliant Money Market,true,,mapped
+13143,Al Ameen Islamic Sovereign Fund,Shariah Compliant Income,true,,mapped
+13136,Al Ameen Shariah Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+14579,Al Ameen Voluntary Pension Fund KPK,VPS-Shariah Compliant Money Market,true,,mapped
+12821,Al Meezan Mutual Fund,Shariah Compliant Equity,true,KMI30,mapped
+12882,Alfalah Asset Allocation Fund,Asset Allocation,false,KSE100,mapped
+12900,Alfalah Cash Fund - II,Money Market,false,,mapped
+12680,Alfalah Consumer Index Exchange Traded Fund,Exchange Traded Fund,false,KSE100,mapped
+14338,Alfalah Financial Sector Income Fund,Income,false,,mapped
+12885,Alfalah Financial Sector Opportunity Fund,Income,false,,mapped
+14645,Alfalah Financial Value Fund (Alfalah Financial Value Plan I),Asset Allocation,false,KSE100,mapped
+14855,Alfalah Financial Value Fund - II,Asset Allocation,false,KSE100,mapped
+12643,Alfalah GHP Alpha Fund,Equity,false,KSE100,mapped
+12653,Alfalah GHP Cash Fund,Money Market,false,,mapped
+12679,Alfalah GHP Dedicated Equity Fund,Dedicated Equity,false,KSE100,mapped
+12649,Alfalah GHP Income Fund,Income,false,,mapped
+12646,Alfalah GHP Income Multiplier Fund,Aggressive Fixed Income,false,,mapped
+12678,Alfalah GHP Islamic Dedicated Equity Fund,Shariah Compliant Dedicated Equity,true,KMI30,mapped
+12652,Alfalah GHP Islamic Income Fund,Shariah Compliant Income,true,,mapped
+12675,Alfalah GHP Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+12676,Alfalah GHP Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+12677,Alfalah GHP Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12657,Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Active Allocation Plan II),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12662,Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Balance Allocation Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12661,Alfalah GHP Islamic Prosperity Planning Fund (Alfalah GHP Islamic Moderate Allocation Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12645,Alfalah GHP Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+12664,Alfalah GHP Islamic Value Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+12654,Alfalah GHP Money Market Fund,Money Market,false,,mapped
+12672,Alfalah GHP Pension Fund,VPS-Equity,false,KSE100,mapped
+12673,Alfalah GHP Pension Fund,VPS-Money Market,false,,mapped
+12674,Alfalah GHP Pension Fund,VPS-Debt,false,,mapped
+12660,Alfalah GHP Prosperity Planning Fund (Alfalah GHP Active Allocation Plan),Fund of Funds,false,KSE100,mapped
+12658,Alfalah GHP Prosperity Planning Fund (Alfalah GHP Conservative Allocation Plan),Fund of Funds,false,KSE100,mapped
+12659,Alfalah GHP Prosperity Planning Fund (Alfalah GHP Moderate Allocation Plan),Fund of Funds,false,KSE100,mapped
+14667,Alfalah GHP Prosperity Planning Fund (Capital Preservation Plan IV),Fund of Funds,false,KSE100,mapped
+12655,Alfalah GHP Sovereign Fund,Income,false,,mapped
+12650,Alfalah GHP Stock Fund,Equity,false,KSE100,mapped
+12647,Alfalah GHP Value Fund,Asset Allocation,false,KSE100,mapped
+15075,Alfalah GOPB Islamic Pension Fund,Shariah Compliant Money Market,true,,mapped
+15074,Alfalah GOPB Pension Fund,VPS-Money Market,false,,mapped
+12894,Alfalah Government Securities Fund - II,Income,false,,mapped
+14718,Alfalah Government Securities Fund Plan I,Income,false,,mapped
+14751,Alfalah Government Securities Fund Plan II,Income,false,,mapped
+12880,Alfalah Income & Growth Fund,Aggressive Fixed Income,false,,mapped
+14632,Alfalah Islamic KPK Employee Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14339,Alfalah Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+12668,Alfalah Islamic Rozana Amdani Fund,Shariah Compliant Money Market,true,,mapped
+14340,Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan I),Shariah Compliant Income,true,,mapped
+14566,Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan II),Shariah Compliant Income,true,,mapped
+14708,Alfalah Islamic Sovereign Fund (Alfalah Islamic Sovereign Plan III),Shariah Compliant Income,true,,mapped
+15011,Alfalah Islamic Stable Return Fund Plan X,Shariah Compliant Fixed Rate / Return,true,,mapped
+15044,Alfalah Islamic Stable Return Fund Plan XII,Shariah Compliant Fixed Rate / Return,true,,mapped
+15054,Alfalah Islamic Stable Return Fund Plan XIII,Shariah Compliant Fixed Rate / Return,true,,mapped
+14544,Alfalah KPK Employee Pension Fund,VPS-Money Market,false,,mapped
+14342,Alfalah KTrade Islamic Plan VII,Shariah Compliant Fund of Funds,true,KMI30,mapped
+12887,Alfalah MTS Fund,Income,false,,mapped
+12884,Alfalah Money Market Fund - II,Money Market,false,,mapped
+12913,Alfalah Pension Fund - II,VPS-Debt,false,,mapped
+12914,Alfalah Pension Fund - II,VPS-Money Market,false,,mapped
+12915,Alfalah Pension Fund - II,VPS-Equity,false,KSE100,mapped
+12881,Alfalah Savings Growth Fund,Income,false,,mapped
+12903,Alfalah Special Savings Fund - I,Capital Protected,false,KSE100,mapped
+12907,Alfalah Special Savings Fund - II,Capital Protected,false,KSE100,mapped
+14858,Alfalah Stable Return Fund Plan XX,Fixed Rate / Return,false,,mapped
+14875,Alfalah Stable Return Fund Plan XXI,Fixed Rate / Return,false,,mapped
+14916,Alfalah Stable Return Fund Plan XXII,Fixed Rate / Return,false,,mapped
+14936,Alfalah Stable Return Fund Plan XXIII,Fixed Rate / Return,false,,mapped
+14942,Alfalah Stable Return Fund Plan XXIV,Fixed Rate / Return,false,,mapped
+14976,Alfalah Stable Return Fund Plan XXVI,Fixed Rate / Return,false,,mapped
+15071,Alfalah Stable Return Fund Plan XXVII,Fixed Rate / Return,false,,mapped
+12879,Alfalah Stock Fund - II,Equity,false,KSE100,mapped
+14763,Alfalah Strategic Allocation Fund Plan - I,Fund of Funds,false,KSE100,mapped
+14349,Alhamra Cash Management Optimizer,Shariah Compliant Money Market,true,,mapped
+12743,Alhamra Daily Dividend Fund,Shariah Compliant Income,true,,mapped
+14683,Alhamra Government Securities Plan I,Shariah Compliant Income,true,,mapped
+12725,Alhamra Islamic Asset Allocation Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+12737,Alhamra Islamic Income Fund,Shariah Compliant Income,true,,mapped
+12744,Alhamra Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+12761,Alhamra Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+12762,Alhamra Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+12763,Alhamra Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+15036,Alhamra Islamic Punjab Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12733,Alhamra Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+14576,Alhamra Opportunity Fund (Dividend Strategy Plan),Shariah Compliant Equity,true,KMI30,mapped
+12745,Alhamra Smart Portfolio,Shariah Compliant Fund of Funds,true,KMI30,mapped
+15042,Alhamra Wada Fund (Alhamra Wada Plan XVI),Shariah Compliant Fixed Rate / Return,true,,mapped
+12787,Allied Finergy Fund,Asset Allocation,false,KSE100,mapped
+13109,Askari Cash Fund,Money Market,false,,mapped
+13107,Askari High Yield Scheme,Aggressive Fixed Income,false,,mapped
+13118,Askari Sovereign Yield Enhancer,Income,false,,mapped
+15047,Atlas Dividend Yield Fund,Equity,false,KSE100,mapped
+15049,Atlas Financial Sector Fund,Equity,false,KSE100,mapped
+12684,Atlas Income Fund,Income,false,,mapped
+14685,Atlas Islamic Cash Fund,Shariah Compliant Money Market,true,,mapped
+12704,Atlas Islamic Dedicated Stock Fund,Shariah Compliant Dedicated Equity,true,KMI30,mapped
+12688,Atlas Islamic Fund of Funds (Atlas Aggressive Allocation Islamic Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12690,Atlas Islamic Fund of Funds (Atlas Conservative Allocation Islamic Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12689,Atlas Islamic Fund of Funds (Atlas Moderate Allocation Islamic Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12683,Atlas Islamic Income Fund,Shariah Compliant Income,true,,mapped
+12693,Atlas Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+12681,Atlas Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+14574,Atlas KPK Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12695,Atlas Liquid Fund,Money Market,false,,mapped
+12685,Atlas Money Market Fund,Money Market,false,,mapped
+12696,Atlas Pension Fund,VPS-Equity,false,KSE100,mapped
+12700,Atlas Pension Fund,VPS-Money Market,false,,mapped
+12701,Atlas Pension Fund,VPS-Debt,false,,mapped
+12697,Atlas Pension Islamic Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12698,Atlas Pension Islamic Fund,VPS-Shariah Compliant Debt,true,,mapped
+12699,Atlas Pension Islamic Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+14965,Atlas Punjab Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14966,Atlas Punjab Pension Fund,VPS-Money Market,false,,mapped
+12687,Atlas Sovereign Fund,Income,false,,mapped
+12682,Atlas Stock Market Fund,Equity,false,KSE100,mapped
+15008,EFU Hemayah Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+15009,EFU Hemayah Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+15010,EFU Hemayah Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12891,Faysal Halal Amdani Fund,Shariah Compliant Money Market,true,,mapped
+14883,Faysal Halal Amdani Fund II,Shariah Compliant Income,true,,mapped
+14989,Faysal Halal Amdani Fund III,Shariah Compliant Income,true,,mapped
+12886,Faysal Islamic Asset Allocation Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+14702,Faysal Islamic Asset Allocation Fund II,Shariah Compliant Asset Allocation,true,KMI30,mapped
+14919,Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan I),Shariah Compliant Asset Allocation,true,KMI30,mapped
+14970,Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan II),Shariah Compliant Asset Allocation,true,KMI30,mapped
+15031,Faysal Islamic Asset Allocation Fund III (Faysal Shariah Flex Plan III),Shariah Compliant Asset Allocation,true,KMI30,mapped
+12888,Faysal Islamic Cash Fund,Shariah Compliant Money Market,true,,mapped
+12916,Faysal Islamic Dedicated Equity Fund,Shariah Compliant Dedicated Equity,true,KMI30,mapped
+14363,Faysal Islamic Financial Growth Fund (Faysal Islamic Financial Growth Plan I),Shariah Compliant Aggressive Fixed Income,true,,mapped
+14701,Faysal Islamic Financial Growth Fund (Faysal Islamic Financial Growth Plan II),Shariah Compliant Aggressive Fixed Income,true,,mapped
+14990,Faysal Islamic Financial Growth Fund II,Shariah Compliant Aggressive Fixed Income,true,,mapped
+14888,Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan I),Shariah Compliant Fund of Funds,true,KMI30,mapped
+14901,Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan II),Shariah Compliant Fund of Funds,true,KMI30,mapped
+14863,Faysal Islamic Financial Planning Fund II (Faysal Priority Ascend Plan III),Shariah Compliant Fund of Funds,true,KMI30,mapped
+14578,Faysal Islamic KPK Government Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14670,Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan I),Shariah Compliant Fixed Rate / Return,true,,mapped
+14859,Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan VI),Shariah Compliant Fixed Rate / Return,true,,mapped
+14992,Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XV),Shariah Compliant Fixed Rate / Return,true,,mapped
+15055,Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XVI),Shariah Compliant Fixed Rate / Return,true,,mapped
+15056,Faysal Islamic Mustakil Munafa Fund (Faysal Islamic Mehdood Muddat Plan XVII),Shariah Compliant Fixed Rate / Return,true,,mapped
+12910,Faysal Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+12911,Faysal Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12912,Faysal Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+14996,Faysal Islamic Punjab Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12883,Faysal Islamic Savings Growth Fund,Shariah Compliant Income,true,,mapped
+12909,Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan I),Shariah Compliant Income,true,,mapped
+14589,Faysal Islamic Sovereign Fund (Faysal Islamic Sovereign Plan II),Shariah Compliant Income,true,,mapped
+12905,Faysal Islamic Special Income Plan I,Shariah Compliant Income,true,,mapped
+12896,Faysal Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+14817,Faysal Islamic Stock Fund II,Shariah Compliant Equity,true,KMI30,mapped
+14791,Faysal Khushal Mustaqbil Fund (Faysal Barak’ah Women Savers Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+14789,Faysal Khushal Mustaqbil Fund (Faysal Nu’umah Women Savers Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12917,First Capital Mutual Fund,Equity,false,KSE100,mapped
+12808,Golden Arrow Stock Fund,Equity,false,KSE100,mapped
+12927,HBL Cash Fund,Money Market,false,,mapped
+12920,HBL Energy Fund,Equity,false,KSE100,mapped
+12930,HBL Equity Fund,Equity,false,KSE100,mapped
+12952,HBL Financial Sector Income Fund Plan I,Income,false,,mapped
+14609,HBL Financial Sector Income Fund Plan II,Income,false,,mapped
+12925,HBL Government Securities Fund,Income,false,,mapped
+12942,HBL Growth Fund-Class A,Equity,false,KSE100,mapped
+12951,HBL Growth Fund-Class B,Equity,false,KSE100,mapped
+12921,HBL Income Fund,Income,false,,mapped
+12943,HBL Investment Fund-Class A,Equity,false,KSE100,mapped
+12946,HBL Investment Fund-Class B,Equity,false,KSE100,mapped
+12934,HBL Islamic Asset Allocation Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+12932,HBL Islamic Equity Fund,Shariah Compliant Equity,true,KMI30,mapped
+15027,HBL Islamic Fixed Term Fund Plan II,Shariah Compliant Fixed Rate / Return,true,,mapped
+12933,HBL Islamic Income Fund,Shariah Compliant Income,true,,mapped
+12928,HBL Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+12957,HBL Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+12958,HBL Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+12959,HBL Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14601,HBL Islamic Savings Plan I,Shariah Compliant Money Market,true,,mapped
+12929,HBL Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+14558,HBL KPK Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14630,HBL KPK Pension Fund,VPS-Money Market,false,,mapped
+14938,HBL Mehfooz Munafa Fund Plan IV,Fixed Rate / Return,false,,mapped
+14896,HBL Mehfooz Munafa Fund Plan X,Fixed Rate / Return,false,,mapped
+14945,HBL Mehfooz Munafa Fund Plan XI,Fixed Rate / Return,false,,mapped
+14954,HBL Mehfooz Munafa Fund Plan XIII,Fixed Rate / Return,false,,mapped
+12924,HBL Money Market Fund,Money Market,false,,mapped
+12923,HBL Multi Asset Fund,Balanced,false,KSE100,mapped
+12954,HBL Pension Fund,VPS-Equity,false,KSE100,mapped
+12955,HBL Pension Fund,VPS-Debt,false,,mapped
+12956,HBL Pension Fund,VPS-Money Market,false,,mapped
+12922,HBL Stock Fund,Equity,false,KSE100,mapped
+12963,HBL Total Treasury Exchange Traded Fund,Exchange Traded Fund,false,KSE100,mapped
+12978,JS Cash Fund,Money Market,false,,mapped
+14644,JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan I),Fixed Rate / Return,false,,mapped
+15039,JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XIX),Fixed Rate / Return,false,,mapped
+14844,JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XV),Fixed Rate / Return,false,,mapped
+15040,JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XX),Fixed Rate / Return,false,,mapped
+15045,JS Fixed Term Munafa Fund (JS Fixed Term Munafa Plan XXI),Fixed Rate / Return,false,,mapped
+14853,JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan I),Fixed Rate / Return,false,,mapped
+14930,JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan IV),Fixed Rate / Return,false,,mapped
+14962,JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VI),Fixed Rate / Return,false,,mapped
+15066,JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VII),Fixed Rate / Return,false,,mapped
+15073,JS Fixed Term Munafa Fund II (JS Fixed Term Munafa Plan VIII),Fixed Rate / Return,false,,mapped
+12968,JS Fund of Funds,Fund of Funds,false,KSE100,mapped
+13006,JS Government Securities Fund,Income,false,,mapped
+12986,JS Growth Fund,Equity,false,KSE100,mapped
+12966,JS Income Fund,Income,false,,mapped
+12976,JS Islamic Fund,Shariah Compliant Equity,true,KMI30,mapped
+12983,JS Islamic Income Fund,Shariah Compliant Income,true,,mapped
+13002,JS Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+13010,JS Islamic Pension Savings Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+13011,JS Islamic Pension Savings Fund,VPS-Shariah Compliant Debt,true,,mapped
+13012,JS Islamic Pension Savings Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14891,JS Islamic Sarmaya Mehfooz Fund (JS Islamic Sarmaya Mehfooz Plan 1),Shariah Compliant Capital Protected,true,KMI30,mapped
+14997,JS Islamic Sarmaya Mehfooz Fund Plan 2 2020,Shariah Compliant Capital Protected,true,KMI30,mapped
+14562,JS KPK Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14629,JS KPK Pension Fund,VPS-Money Market,false,,mapped
+12979,JS Large Cap Fund,Equity,false,KSE100,mapped
+13005,JS Microfinance Sector Fund,Income,false,,mapped
+13015,JS Momentum Factor Exchange Traded Fund,Exchange Traded Fund,false,KSE100,mapped
+14368,JS Money Market Fund,Money Market,false,,mapped
+13007,JS Pension Savings Fund,VPS-Equity,false,KSE100,mapped
+13008,JS Pension Savings Fund,VPS-Debt,false,,mapped
+13009,JS Pension Savings Fund,VPS-Money Market,false,,mapped
+15020,JS Punjab Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+15018,JS Punjab Pension Fund,VPS-Money Market,false,,mapped
+12826,KSE Meezan Index Fund,Shariah Compliant Index Tracker,true,KMI30,mapped
+13030,Lakson Asset Allocation Developed Markets Fund,Asset Allocation,false,KSE100,mapped
+13027,Lakson Equity Fund,Equity,false,KSE100,mapped
+15062,Lakson Fixed Return Fund Plan I,Fixed Rate / Return,false,,mapped
+13026,Lakson Income Fund,Income,false,,mapped
+13031,Lakson Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+13029,Lakson Islamic Tactical Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+13025,Lakson Money Market Fund,Money Market,false,,mapped
+13028,Lakson Tactical Fund,Asset Allocation,false,KSE100,mapped
+15033,Lucky Islamic Cash Fund,Shariah Compliant Money Market,true,,mapped
+15022,Lucky Islamic Energy Fund,Shariah Compliant Equity,true,KMI30,mapped
+14991,Lucky Islamic Fixed Term Fund Plan VII,Shariah Compliant Fixed Rate / Return,true,,mapped
+15050,Lucky Islamic Fixed Term Fund Plan XII,Shariah Compliant Fixed Rate / Return,true,,mapped
+14848,Lucky Islamic Income Fund,Shariah Compliant Income,true,,mapped
+14836,Lucky Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+14950,Lucky Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14951,Lucky Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+14952,Lucky Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+14953,Lucky Islamic Pension Fund,VPS-Shariah Compliant Commodities / Gold,true,,mapped
+15007,Lucky Islamic Punjab Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14849,Lucky Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+14575,MCB Alhamra KPK Govt Employees Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12723,MCB Cash Management Optimizer,Money Market,false,,mapped
+14727,MCB DCF Fixed Return III (Plan IV),Fixed Rate / Return,false,,mapped
+12722,MCB DCF Income Fund,Income,false,,mapped
+14744,MCB Government Securities Plan I,Income,false,,mapped
+14699,MCB Investment Savings Plan I,Aggressive Fixed Income,false,,mapped
+14597,MCB KPK Govt Employees Pension Fund,VPS-Money Market,false,,mapped
+12720,MCB Pakistan Asset Allocation Fund,Asset Allocation,false,KSE100,mapped
+14924,MCB Pakistan Fixed Return Plan 25,Fixed Rate / Return,false,,mapped
+12747,MCB Pakistan Opportunity Fund (MCB Pakistan Dividend Yield Plan),Asset Allocation,false,KSE100,mapped
+12728,MCB Pakistan Sovereign Fund,Income,false,,mapped
+12724,MCB Pakistan Stock Market Fund,Equity,false,KSE100,mapped
+14987,MCB Punjab Pension Fund,VPS-Money Market,false,,mapped
+14907,Mahaana IGI Islamic Retirement Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+14908,Mahaana IGI Islamic Retirement Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14909,Mahaana IGI Islamic Retirement Fund,VPS-Shariah Compliant Debt,true,,mapped
+14555,Mahaana Islamic Cash Fund,Shariah Compliant Money Market,true,,mapped
+14620,Mahaana Islamic Index Exchange Traded Fund,Shariah Compliant Exchange Traded Fund,true,KMI30,mapped
+12843,Meezan Asset Allocation Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+12822,Meezan Balanced Fund,Shariah Compliant Balanced,true,KMI30,mapped
+12820,Meezan Cash Fund,Shariah Compliant Money Market,true,,mapped
+12854,Meezan Daily Income Fund (MDIP I),Shariah Compliant Income,true,,mapped
+12855,Meezan Daily Income Fund (Meezan Mahana Munafa Plan),Shariah Compliant Income,true,,mapped
+14406,Meezan Daily Income Fund (Meezan Munafa Plan I),Shariah Compliant Income,true,,mapped
+14407,Meezan Daily Income Fund (Meezan Sehl Account Plan) (MSHP),Shariah Compliant Income,true,,mapped
+14652,Meezan Daily Income Fund (Meezan Super Saver Plan) (MSSP),Shariah Compliant Income,true,,mapped
+12864,Meezan Dedicated Equity Fund,Shariah Compliant Dedicated Equity,true,KMI30,mapped
+14709,Meezan Dynamic Asset Allocation Fund (Meezan Dividend Yield Plan),Shariah Compliant Asset Allocation,true,KMI30,mapped
+12837,Meezan Energy Fund,Shariah Compliant Equity,true,KMI30,mapped
+12827,Meezan Financial Planning Fund of Funds (Aggressive),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12828,Meezan Financial Planning Fund of Funds (Conservative),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12838,Meezan Financial Planning Fund of Funds (MAAP I),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12829,Meezan Financial Planning Fund of Funds (Moderate),Shariah Compliant Fund of Funds,true,KMI30,mapped
+14408,Meezan Financial Planning Fund of Funds (Very Conservative Allocation Plan),Shariah Compliant Fund of Funds,true,KMI30,mapped
+14638,Meezan GOKP Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12840,Meezan Gold Fund,Shariah Compliant Commodities,true,,mapped
+15043,Meezan Islamic Asaan Cash Fund,Shariah Compliant Money Market,true,,mapped
+12817,Meezan Islamic Fund,Shariah Compliant Equity,true,KMI30,mapped
+14969,Meezan Islamic Government of Punjab Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12818,Meezan Islamic Income Fund,Shariah Compliant Income,true,,mapped
+15063,Meezan Paidaar Munafa Plan 34,Shariah Compliant Fixed Rate / Return,true,,mapped
+15035,Meezan Paidaar Munafa Plan 36,Shariah Compliant Fixed Rate / Return,true,,mapped
+15046,Meezan Paidaar Munafa Plan 37,Shariah Compliant Fixed Rate / Return,true,,mapped
+15064,Meezan Paidaar Munafa Plan 38,Shariah Compliant Fixed Rate / Return,true,,mapped
+15065,Meezan Paidaar Munafa Plan 39,Shariah Compliant Fixed Rate / Return,true,,mapped
+12865,Meezan Pakistan ETF,Shariah Compliant Exchange Traded Fund,true,KMI30,mapped
+12852,Meezan Rozana Amdani Fund,Shariah Compliant Money Market,true,,mapped
+12824,Meezan Sovereign Fund,Shariah Compliant Income,true,,mapped
+12836,Meezan Strategic Allocation Fund (MSAP I),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12834,Meezan Strategic Allocation Fund (MSAP II),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12835,Meezan Strategic Allocation Fund (MSAP III),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12845,Meezan Strategic Allocation Fund (MSAP IV),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12839,Meezan Strategic Allocation Fund (MSAP V),Shariah Compliant Fund of Funds,true,KMI30,mapped
+12860,Meezan Tahaffuz Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+12861,Meezan Tahaffuz Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+12862,Meezan Tahaffuz Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+12863,Meezan Tahaffuz Pension Fund,VPS-Shariah Compliant Commodities / Gold,true,,mapped
+13099,NAFA Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+13100,NAFA Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+13101,NAFA Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+13096,NAFA Pension Fund,VPS-Debt,false,,mapped
+13097,NAFA Pension Fund,VPS-Equity,false,KSE100,mapped
+13098,NAFA Pension Fund,VPS-Money Market,false,,mapped
+13055,NBP Balanced Fund,Balanced,false,KSE100,mapped
+13093,NBP Cash Plan I,Money Market,false,,mapped
+13094,NBP Cash Plan II,Money Market,false,,mapped
+13081,NBP Financial Sector Fund,Equity,false,KSE100,mapped
+13062,NBP Financial Sector Income Fund,Income,false,,mapped
+15070,NBP Fixed Term Munafa Plan XIB (NBP Mustahkam Fund II),Fixed Rate / Return,false,,mapped
+14981,NBP Fixed Term Munafa Plan XIIA (NBP Mustahkam Fund II),Fixed Rate / Return,false,,mapped
+14934,NBP Fixed Term Munafa Plan XIII (NBP Mustahkam Fund II),Fixed Rate / Return,false,,mapped
+15060,NBP Fixed Term Munafa Plan XIIIA (NBP Mustahkam Fund II),Fixed Rate / Return,false,,mapped
+14743,NBP Fixed Term Munafa Plan XIX,Fixed Rate / Return,false,,mapped
+15053,NBP Fixed Term Munafa Plan XIXA (NBP Mustahkam Fund II),Fixed Rate / Return,false,,mapped
+15069,NBP Fixed Term Munafa Plan XXA (NBP Mustahkam Fund II),Fixed Rate / Return,false,,mapped
+14624,NBP GoKP Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14614,NBP GoKP Pension Fund,VPS-Money Market,false,,mapped
+13059,NBP Government Securities Liquid Fund,Money Market,false,,mapped
+14374,NBP Government Securities Plan IV,Income,false,,mapped
+14906,NBP Government Securities Plan VIII,Income,false,,mapped
+13066,NBP Government Securities Savings Fund,Income,false,,mapped
+13053,NBP Income Opportunity Fund,Income,false,,mapped
+13095,NBP Income Plan I,Income,false,,mapped
+13089,NBP Islamic Daily Dividend Fund,Shariah Compliant Money Market,true,,mapped
+13074,NBP Islamic Energy Fund,Shariah Compliant Equity,true,KMI30,mapped
+15037,NBP Islamic Fixed Term Munafa Plan IIA (NBP Islamic Mustahkam Fund),Shariah Compliant Fixed Rate / Return,true,,mapped
+15052,NBP Islamic Fixed Term Munafa Plan IVA (NBP Islamic Mustahkam Fund),Shariah Compliant Fixed Rate / Return,true,,mapped
+15058,NBP Islamic Fixed Term Munafa Plan VA (NBP Islamic Mustahkam Fund),Shariah Compliant Fixed Rate / Return,true,,mapped
+15072,NBP Islamic Fixed Term Munafa Plan VIA (NBP Islamic Mustahkam Fund),Shariah Compliant Fixed Rate / Return,true,,mapped
+14596,NBP Islamic Government Securities Plan III,Shariah Compliant Income,true,,mapped
+13067,NBP Islamic Income Fund,Shariah Compliant Income,true,,mapped
+13085,NBP Islamic Mahana Amdani Fund,Shariah Compliant Income,true,,mapped
+13082,NBP Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+14928,NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan I),Shariah Compliant Capital Protected,true,KMI30,mapped
+15012,NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan II),Shariah Compliant Capital Protected,true,KMI30,mapped
+15041,NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan III),Shariah Compliant Capital Protected,true,KMI30,mapped
+15057,NBP Islamic Principal Protection Fund I (NBP Islamic Principal Protection Plan IV),Shariah Compliant Capital Protected,true,KMI30,mapped
+15029,NBP Islamic Punjab Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+13057,NBP Islamic Sarmaya Izafa Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+13056,NBP Islamic Savings Fund,Shariah Compliant Income,true,,mapped
+13068,NBP Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+13052,NBP Mahana Amdani Fund,Income,false,,mapped
+13063,NBP Money Market Fund,Money Market,false,,mapped
+13103,NBP Pakistan Growth Exchange Traded Fund,Exchange Traded Fund,false,KSE100,mapped
+15030,NBP Punjab Pension Fund,VPS-Money Market,false,,mapped
+13060,NBP Riba Free Savings Fund,Shariah Compliant Income,true,,mapped
+13061,NBP Sarmaya Izafa Fund,Asset Allocation,false,KSE100,mapped
+13058,NBP Savings Fund,Income,false,,mapped
+13054,NBP Stock Fund,Equity,false,KSE100,mapped
+13036,NIT - Government Bond Fund,Income,false,,mapped
+13037,NIT - Income Fund,Income,false,,mapped
+13041,NIT Asset Allocation Fund,Asset Allocation,false,KSE100,mapped
+13038,NIT Islamic Equity Fund,Shariah Compliant Equity,true,KMI30,mapped
+13040,NIT Islamic Income Fund,Shariah Compliant Income,true,,mapped
+13042,NIT Islamic Money Market Fund,Shariah Compliant Money Market,true,,mapped
+13047,NIT Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+13048,NIT Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+13049,NIT Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14650,NIT KP Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+14570,NIT KP Pension Fund,VPS-Money Market,false,,mapped
+13039,NIT Money Market Fund,Money Market,false,,mapped
+13051,NIT Pakistan Gateway Exchange Traded Fund,Exchange Traded Fund,false,KSE100,mapped
+13044,NIT Pension Fund,VPS-Debt,false,,mapped
+13045,NIT Pension Fund,VPS-Equity,false,KSE100,mapped
+13046,NIT Pension Fund,VPS-Money Market,false,,mapped
+13050,NIT Pension Fund,VPS-Commodities / Gold,false,,mapped
+13043,NIT Social Impact Fund,Income,false,,mapped
+13034,National Investment Unit Trust,Equity,false,KSE100,mapped
+13104,Pak Oman Advantage Asset Allocation Fund,Asset Allocation,false,KSE100,mapped
+13105,Pak Oman Advantage Islamic Income Fund,Shariah Compliant Income,true,,mapped
+13119,Pak Oman Daily Dividend Fund,Shariah Compliant Money Market,true,,mapped
+13116,Pak Oman Income Fund,Income,false,,mapped
+13106,Pak Oman Islamic Asset Allocation Fund,Shariah Compliant Asset Allocation,true,KMI30,mapped
+14673,Pak Oman Micro Finance Fund,Income,false,,mapped
+13123,Pak Qatar Asan Munafa Plan,Shariah Compliant Money Market,true,,mapped
+14364,Pak Qatar Asset Allocation Plan I (PQAAP IA),Shariah Compliant Asset Allocation,true,KMI30,mapped
+14365,Pak Qatar Asset Allocation Plan II (PQAAP IIA),Shariah Compliant Asset Allocation,true,KMI30,mapped
+13125,Pak Qatar Cash Plan,Shariah Compliant Money Market,true,,mapped
+13124,Pak Qatar Daily Dividend Plan,Shariah Compliant Money Market,true,,mapped
+15006,Pak Qatar GoKP Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+15024,Pak Qatar GoPB Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+13126,Pak Qatar Income Plan,Shariah Compliant Income,true,,mapped
+13128,Pak Qatar Islamic Pension Fund,VPS-Shariah Compliant Equity,true,KMI30,mapped
+13129,Pak Qatar Islamic Pension Fund,VPS-Shariah Compliant Money Market,true,,mapped
+13130,Pak Qatar Islamic Pension Fund,VPS-Shariah Compliant Debt,true,,mapped
+13121,Pak Qatar Islamic Stock Fund,Shariah Compliant Equity,true,KMI30,mapped
+13122,Pak Qatar Khalis Bachat Plan,Shariah Compliant Income,true,,mapped
+13127,Pak Qatar Monthly Income Plan,Shariah Compliant Income,true,,mapped
+14721,Pak-Qatar Asset Allocation Plan III (PQAAP IIIA),Shariah Compliant Asset Allocation,true,KMI30,mapped
+12727,Pakistan Capital Market Fund,Balanced,false,KSE100,mapped
+12730,Pakistan Cash Management Fund,Money Market,false,,mapped
+12731,Pakistan Income Enhancement Fund,Aggressive Fixed Income,false,,mapped
+12726,Pakistan Income Fund,Income,false,,mapped
+12758,Pakistan Pension Fund,VPS-Equity,false,KSE100,mapped
+12759,Pakistan Pension Fund,VPS-Debt,false,,mapped
+12760,Pakistan Pension Fund,VPS-Money Market,false,,mapped
+13150,UBL Asset Allocation Fund,Asset Allocation,false,KSE100,mapped
+13185,UBL Cash Fund,Money Market,false,,mapped
+13172,UBL Financial Sector Fund,Equity,false,KSE100,mapped
+14876,UBL Fixed Return Plan II (AB),Fixed Rate / Return,false,,mapped
+14679,UBL Fixed Return Plan II (M),Fixed Rate / Return,false,,mapped
+14798,UBL Fixed Return Plan III (X),Fixed Rate / Return,false,,mapped
+14877,UBL Fixed Return Plan III (Y),Fixed Rate / Return,false,,mapped
+14899,UBL Fixed Return Plan III (Z),Fixed Rate / Return,false,,mapped
+14704,UBL Fixed Return Plan IV (G),Fixed Rate / Return,false,,mapped
+14815,UBL Fixed Return Plan IV (M),Fixed Rate / Return,false,,mapped
+14820,UBL Fixed Return Plan IV (O),Fixed Rate / Return,false,,mapped
+13144,UBL Government Securities Fund,Income,false,,mapped
+13134,UBL Growth & Income Fund,Aggressive Fixed Income,false,,mapped
+13133,UBL Income Opportunity Fund,Income,false,,mapped
+14921,UBL Liquidity Fund,Money Market,false,,mapped
+13138,UBL Liquidity Plus Fund,Money Market,false,,mapped
+13141,UBL Money Market Fund,Money Market,false,,mapped
+13210,UBL Pakistan Enterprise Exchange Traded Fund,Exchange Traded Fund,false,KSE100,mapped
+15025,UBL Punjab Pension Fund,VPS-Money Market,false,,mapped
+13203,UBL Retirement Saving Fund,VPS-Equity,false,KSE100,mapped
+13204,UBL Retirement Saving Fund,VPS-Money Market,false,,mapped
+13205,UBL Retirement Saving Fund,VPS-Debt,false,,mapped
+13206,UBL Retirement Saving Fund,VPS-Commodities / Gold,false,,mapped
+14421,UBL Special Savings Plan V,Capital Protected - Income,false,,mapped
+14403,UBL Special Savings Plan X,Capital Protected - Income,false,,mapped
+13135,UBL Stock Advantage Fund,Equity,false,KSE100,mapped
+14621,UBL Voluntary Pension Fund KPK,VPS-Money Market,false,,mapped
+12965,Unit Trust of Pakistan,Balanced,false,KSE100,mapped

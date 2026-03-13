@@ -1,16 +1,45 @@
-# React + Vite
+# FundLens Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Commands
 
-Currently, two official plugins are available:
+- `npm install`
+- `npm run dev`
+- `npm run build`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Environment
 
-## React Compiler
+- `VITE_API_URL`: base HTTP URL for the Lambda Function URL or API Gateway HTTP endpoint.
+- `VITE_PROGRESS_WS_URL`: API Gateway WebSocket URL used for real-time analysis trace updates.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The frontend is configured for live backend traffic only.
 
-## Expanding the ESLint configuration
+## Windows and WSL
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Do not reuse the same `node_modules` directory across Windows PowerShell and WSL.
+Vite, Rollup, and esbuild install native optional packages per OS, so a tree created on
+Windows will miss Linux binaries inside WSL, and vice versa.
+
+If you switch environments, remove `node_modules` and reinstall in the environment you
+plan to run:
+
+- WSL: `rm -rf node_modules && npm install`
+- PowerShell: `Remove-Item node_modules -Recurse -Force; npm install`
+
+## Live Analysis Trace
+
+The analyzing screen prefers real-time push over polling.
+
+- If `VITE_PROGRESS_WS_URL` is set, the client opens a WebSocket and sends `{ "action": "subscribeProgress", "session_id": "..." }`.
+- If the socket is unavailable or closes, the client falls back to `GET /progress?session_id=...`.
+- The socket expects an API Gateway route named `subscribeProgress`.
+
+## AWS WebSocket Notes
+
+To enable true server-driven progress updates in production:
+
+- Configure an API Gateway WebSocket API with route selection expression `$request.body.action`.
+- Add routes for `$connect`, `$disconnect`, `subscribeProgress`, and optional `ping`.
+- Point those routes at the backend Lambda that serves `orchestrator.py`.
+- Set `WEBSOCKET_CALLBACK_URL` in Lambda if you want the backend to post updates without deriving the callback URL from the socket event.
+
+If the WebSocket API is not deployed yet, the app still works through polling.

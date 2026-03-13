@@ -1,0 +1,48 @@
+{
+  "source": {
+    "provider": "PSX DPS",
+    "endpoints": {
+      "KSE100": "https://dps.psx.com.pk/timeseries/eod/KSE100",
+      "KSE30": "https://dps.psx.com.pk/timeseries/eod/KSE30",
+      "KMI30": "https://dps.psx.com.pk/timeseries/eod/KMI30"
+    },
+    "as_of": "2026-03-12"
+  },
+  "schema": {
+    "date": {
+      "type": "date",
+      "format": "YYYY-MM-DD",
+      "description": "UTC date derived from the Unix timestamp in the DPS endpoint."
+    },
+    "benchmark_name": {
+      "type": "string",
+      "description": "Benchmark symbol from the DPS endpoint, currently KSE100, KSE30, or KMI30."
+    },
+    "index_level": {
+      "type": "float",
+      "description": "Observed benchmark level from the endpoint.",
+      "confidence": "high",
+      "evidence": "Matches the DPS live index panel close/current value on 2026-03-12."
+    },
+    "volume": {
+      "type": "integer",
+      "description": "Observed benchmark volume-like metric from the endpoint.",
+      "confidence": "high",
+      "evidence": "Matches the DPS live index panel volume value on 2026-03-12."
+    },
+    "open_candidate": {
+      "type": "float",
+      "description": "Fourth endpoint field preserved conservatively because DPS does not label historical field names.",
+      "confidence": "medium",
+      "likely_meaning": "Opening index level",
+      "evidence": "Consistently falls within the live day range and does not match close, high, low, volume, or previous close on inspected dates.",
+      "warning": "Treat as inferred until confirmed from a primary PSX historical source or explicit vendor documentation."
+    }
+  },
+  "quality_checks": [
+    "Rows are deduplicated by (date, benchmark_name) when the endpoint repeats an exact duplicate.",
+    "Conflicting duplicates raise an error.",
+    "Non-positive index_level or open_candidate raises an error.",
+    "Negative volume raises an error."
+  ]
+}

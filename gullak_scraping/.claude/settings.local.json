@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/Scripts/python scrape_fund_returns.py --fund-ids 13134)",
+      "Bash(.venv/Scripts/python scrape_fund_returns.py)",
+      "Bash(.venv/Scripts/python -c \":*)",
+      "Bash(.venv/Scripts/python compute_fund_features.py)",
+      "Bash(python -c \":*)"
+    ]
+  }
+}
